@@ -1,0 +1,2088 @@
+{
+  "en": {
+    "navbar": {
+      "about_us": "about us",
+      "our_services": "our services",
+      "referral": "referral",
+      "gallary": "gallery",
+      "contact": "contact",
+      "enquire_now": "enquire now"
+    },
+    "landing": {
+      "title": "Empowering Lives Through Compassionate Care.",
+      "description": "Join us on a journey of growth, community engagement, and meaningful connections. Discover how Galaxy Care can transform lives and create a brighter future, one step at a time. Experience care that goes beyond, because everyone deserves to shine.",
+      "cta": "Join us today"
+    },
+    "setting":{
+      "titleone":"Select your language.",
+      "titletwo":"Turn on dark mode."
+    },
+    "about":{
+      "heading":"Elevating Lives Through Personalized Disability Support",
+      "desc":"Welcome to Galaxy Care, a distinguished disability service provider committed to making a positive impact on the lives of individuals with diverse abilities. Our unwavering dedication stems from a deep belief in promoting wellbeing, inclusion, and independence. As a trusted name in the field, we're driven by a person-centered approach that values the uniqueness of every individual we serve.",
+      "cta":"About Us",
+      "why":"Why Galaxy Care ?",
+      "whypoints":[
+        {
+          "point":"Person Centered Approach",
+          "icon":"https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+        },
+        {
+          "point":"Experienced and Compassionate Team",
+          "icon":"https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+        },
+        {
+          "point":"Community Engagement",
+          "icon":"https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+        },
+        {
+          "point":"Holistic Care Approach",
+          "icon":"https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+        },
+        {
+          "point":"Commitment to Excellence",
+          "icon":"https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+        },
+        {
+          "point":"Positive Impact on Participants",
+          "icon":"https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+        }
+      ]
+    },
+    "mvoheader":{
+      "title":"Empowering Lives Through Compassionate Support and Community Building",
+      "desc":"Guided by Experienced Healthcare Leaders, we're Committed to Building Vibrant Connections and Providing Personalized, Dignified Care."
+    },
+    "mvo":[
+      {
+        "title":"Mission",
+        "desc":"Galaxy Care's mission revolves around fostering meaningful connections and building vibrant communities. We're not just a service provider, we're your partners in progress. Our services encompass a spectrum of care, from personal activities to community engagement, community nursing, daily living skills, and more. Our commitment to excellence shines through in every aspect of our work, as we strive to empower Participants to lead fulfilling and dignified lives.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta":"Learn More"
+      },
+      {
+        "title":"Vision",
+        "desc":"Our journey began with a vision to become a leading force in innovative and compassionate support services for people with disabilities. Led by the experienced hands of Devraj Lamichhane and Rupa Pandey Lamichhane, our team combines their extensive background in healthcare to ensure that our services are not just tailored but transformative. With an emphasis on respect, empathy, and continuous learning, we're devoted to creating an environment where individuals thrive.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta":"Learn More"
+      },
+      {
+        "title":"Objective",
+        "desc":"Headquartered at 16 Carver Circuit, Wollert, Victoria, Galaxy Care is poised to make a significant difference throughout Melbourne, particularly in the northern suburbs. Our presence is rooted in the understanding that each individual deserves support that is as unique as they are. Join us on this journey of empowerment, where we pave the way for independence, growth, and a brighter future. Galaxy Care, where care transcends boundaries and possibilities unfold.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta":"Learn More"
+      }
+    ],
+    "services": [
+      {
+        "title": "Assist-Personal Activities",
+        "description": "Providing assistance with personal activities to enhance individual skills and independence.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link":"assist_personal_activities",
+        "des_des":"Enhance your skills and embrace independence with Galaxy Care's Assist-Personal Activities service. Our compassionate team is dedicated to providing personalized assistance in various daily activities, empowering you to achieve your goals. From grooming and dressing to meal preparation and mobility support, we're here to support you every step of the way. Experience care that prioritizes your unique needs, helping you thrive and excel in your personal journey towards greater independence."
+      },
+      {
+        "title": "Assist-Travel/Transport",
+        "description": "Offering support with travel and transportation needs to ensure accessibility and mobility.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link":"assist_travel",
+        "des_des":"At Galaxy Care, we understand the importance of accessibility and mobility. Our Assist-Travel/Transport service is designed to make your journeys seamless and enjoyable. Whether you're heading to appointments, community events, or simply exploring, our team offers reliable support to ensure you can travel with ease. From assistance with route planning to providing companionship during your trips, we're committed to enhancing your travel experience and enabling you to stay connected to the world around you."
+      },
+      {
+        "title": "Community Nursing Care",
+        "description": "Delivering nursing care within the community to cater to specific health-related needs.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link":"community_nursing_care",
+        "des_des":"Experience dedicated nursing care in the comfort of your community with Galaxy Care's Community Nursing Care service. Our skilled and compassionate nurses are here to address your specific health-related needs. From wound care and medication management to monitoring and health education, we prioritize your well-being and provide tailored nursing services to promote your health and independence. With a focus on compassionate care and expertise, we're your trusted partners on your journey to wellness."
+      },
+      {
+        "title": "Assistance with Daily Life Tasks in a Group or Shared Living Arrangement",
+        "description": "Supporting participants in shared living arrangements with daily tasks and activities.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link":"assistance_with_daily_life_task",
+        "des_des":"Galaxy Care understands the importance of a supportive living environment. Our Assistance with Daily Life Tasks in a Group or Shared Living Arrangement service ensures that participants in shared living spaces receive comprehensive support. From meal planning and household organization to engaging group activities, we foster a sense of community while assisting with daily tasks. Our dedicated team creates an environment where independence and camaraderie thrive, promoting a fulfilling and connected lifestyle."
+      },
+      {
+        "title": "Daily Living Skills",
+        "description": "Helping individuals develop and improve daily living skills for increased self-reliance.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link":"daily_living_skills",
+        "des_des":"Empower yourself with essential life skills through Galaxy Care's Daily Living Skills service. Our team is committed to helping you develop and enhance your abilities for everyday tasks. From managing finances and communication skills to self-care routines and problem-solving, we provide comprehensive training to boost your self-reliance. With a focus on skill-building and personalized support, we're here to equip you with the tools you need for a confident and independent life."
+      },
+      {
+        "title": "Household Tasks",
+        "description": "Assisting with household chores and tasks to maintain a safe and comfortable living environment.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link":"household_task",
+        "des_des":"Maintain a comfortable and safe living environment with Galaxy Care's Household Tasks service. Our dedicated support team is here to assist you with a range of household chores, ensuring your surroundings are well-maintained and organized. From cleaning and laundry to grocery shopping and home maintenance, we're committed to creating a space where you feel at ease. Experience the convenience and comfort of a well-managed home, allowing you to focus on what truly matters."
+      },
+      {
+        "title": "Participate Community",
+        "description": "Encouraging participants to actively engage in their local communities, build relationships, and contribute to community life.",
+        "icon":"https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link":"participate_community",
+        "des_des":"Galaxy Care invites you to actively engage in your local community through our Participate Community service. We believe in the power of connections and relationships, and we're here to support you in building meaningful interactions. From joining community events and clubs to developing social skills and fostering connections, our team is dedicated to helping you become an integral part of your community. Experience the joy of contributing to community life and creating lasting bonds with those around you."
+      }
+    ],
+    "servicesheading":{
+      "title":"Our Services",
+      "desc":"Comprehensive and Personalized Care Tailored to Your Needs"
+    },
+    "contact":{
+      "formtitle":"Leave us a message",
+      "contacttitle":"Contact Us For Any Query",
+      "contactdesc":"Contact us today and we will get in touch very shortly. Please feel free to query us, we will help you with your query.",
+      "address":"Address",
+      "phone":"Contact Number",
+      "email":"Email Address",
+      "placeholderemail":"Your Email",
+      "placeholderName":"Your Name",
+      "placeholderNumber":"Your Number",
+      "placeholderQuery":"Your Query",
+      "cta":"Contact Us"
+    },
+    "enquire":{
+      "enquiry":"Enquire Now",
+      "formtitle":"Leave us an enquiry.",
+      "contacttitle":"Enquire Us For Any Query",
+      "contactdesc":"Enquire us today and we will get in touch very shortly. Please feel free to query us, we will help you with your query.",
+      "placeholderEmail":"youremail@galaxycare.com.au",
+      "placeholderName":"your name here",
+      "placeholderNumber":"your contact number here",
+      "placeholderAddress":"your address here",
+      "placeholderDesc":"Participant needs walking assistance...",
+      "placeholderRisk":"Participant has heart problem...",
+      "placeholderSupportHour":"7am to 9pm",
+      "labelName":"Name",
+      "labelEmail":"Email",
+      "labelAddress":"Address",
+      "labelNumber":"Contact Number",
+      "labeldob":"Participant Date of Birth",
+      "labelSupportHour":"Support Hour",
+      "labelRisk":"Any Risk ?",
+      "labelDesc":"Description of Support",
+      "cta":"submit"
+    },
+    "gallery":{
+      "title":"Galaxy Care's Gallery",
+      "desc":"Capturing Moments of Care and Connection at Galaxy Care. A Visual Exploration of Our Journey in Empowering Lives through Compassionate Support.",
+      "cta":"View Our Gallery",
+      "np_title":"Gallery",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer":{
+      "quick_link":"Quick Links",
+      "our_services":"Our Services",
+      "contact":"Contact Us",
+      "moto":"Join us on a journey of growth, community engagement, and meaningful connections.",
+      "cr":"All rights reserved."
+    },
+    "referral":{
+      "partone":"Participant Details",
+      "parttwo":"Fund Management",
+      "partthree":"About the Participants",
+      "partfour":"Contact Details of Referrer",
+      "labelGender":"Gender",
+      "labelMale":"Male",
+      "labelFemale":"Female",
+      "labelOthers":"Others",
+      "labelliving_situatuion":"Participant's Living Situation",
+      "placeholderliving_situatuion":"Mention the living situation of participant here.",
+      "labelcurrent_behavioural_plan":"Does the participant have a current behavioural support plan?",
+      "plan_funding":"Plan Funding",
+      "self_man":"Self-managed",
+      "plan_managed":"Plan-managed",
+      "invo_part":"Invoicing Particular",
+      "mobility":"Mobility",
+      "mobility_mode":"Mobility Mode",
+      "need_assistance":"Need Assistance",
+      "independence":"independence",
+      "plz_mention_other_mobility":"Please mention other mobility options",
+      "comm":"Communication",
+      "comm_mode":"Communication Mode",
+      "verbally":"Verbally",
+      "auslan":"Auslan",
+      "nv":"Non-verbal",
+      "pg":"Point or gesture",
+      "ipad":"ipad",
+      "comm_opt":"Please mention other communication options",
+      "pd":"Please Describe",
+      "cforassi":"Please check for assistance",
+      "assi_mode":"Assistance Mode",
+      "pc":"Personal Care",
+      "trans":"Transfer",
+      "ed":"Eating and Drinking",
+      "conti":"Continence",
+      "cladbg":"CALD Background",
+      "pmoao":"Please mention other assistance options",
+      "wp":"Worker Preference",
+      "mengenskill":"Mention Gender or skills or abilities for worker preference.",
+      "enqd":"Enquiry Date"
+    }
+  },
+  "ar": {
+    "navbar": {
+      "about_us": "من نحن",
+      "our_services": "خدماتنا",
+      "referral": "الإحالة",
+      "gallary": "الصالة الفنية",
+      "contact": "اتصل",
+      "enquire_now": "استفسر الآن"
+    },
+    "landing": {
+      "title": "تمكين الحياة من خلال الرعاية الرحيمة.",
+      "description": "انضم إلينا في رحلة النمو ومشاركة المجتمع والروابط ذات المغزى. اكتشف كيف يمكن لـ Galaxy Care تحويل الحياة وخلق مستقبل أكثر إشراقًا، خطوة واحدة في كل مرة. اختبر الرعاية التي تتجاوز الحدود، لأن الجميع يستحق أن يشع.",
+      "cta": "انضم إلينا اليوم"
+    },
+    "about": {
+      "heading": "رفع الأرواح من خلال الدعم الشخصي للإعاقة",
+      "desc": "مرحبًا بك في جالاكسي كير، مقدم الخدمات المميزة للإعاقة الملتزم بتحقيق تأثير إيجابي في حياة الأفراد ذوي القدرات المتنوعة. تنبع تفانينا الثابت من الإيمان العميق بتعزيز الرفاهية والاندماج والاستقلال. ككيان موثوق به في هذا الميدان، يقودنا نهج يركز على الشخص ويقدر تفرد كل فرد نخدمه.",
+      "cta": "معرفة المزيد",
+        "why": "لماذا جالاكسي كير؟",
+        "whypoints": [
+          {
+            "point": "نهج مركزي مبني على الشخص",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "فريق ذو خبرة وتعاطف",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "المشاركة المجتمعية",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "نهج الرعاية الشاملة",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "الالتزام بالتميز",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "تأثير إيجابي على المشاركين",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]      
+    },
+    "mvoheader": {
+      "title": "رفع الأرواح من خلال الدعم الرحيم وبناء المجتمع",
+      "desc": "مستوحاة من قادة الرعاية ذوي الخبرة، نحن ملتزمون ببناء اتصالات حية وتقديم رعاية شخصية كريمة."
+    },
+    "mvo": [
+      {
+        "title": "المهمة",
+        "desc": "تدور مهمة جالاكسي كير حول تعزيز الروابط المعنوية وبناء مجتمعات حية. لسنا مجرد مقدمي خدمات، بل نحن شركاءكم في التقدم. تشمل خدماتنا طيفًا من الرعاية، من الأنشطة الشخصية إلى المشاركة المجتمعية، والرعاية المجتمعية للتمريض، ومهارات الحياة اليومية، وأكثر من ذلك. يتجلى التفاني في التميز من خلال كل جانب من جوانب عملنا، حيث نسعى لتمكين المشاركين من قيادة حياة مليئة بالإشراق والكرامة.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "تعرف على المزيد"
+      },
+      {
+        "title": "الرؤية",
+        "desc": "بدأت رحلتنا برؤية أن نصبح قوة رائدة في خدمات الدعم الابتكارية والرحيمة للأشخاص ذوي الإعاقة. تقودنا أيدي الخبراء لدينا ديفراج لاميشان وروبا باندي لاميشان، حيث يجمع فريقنا خلفية واسعة في مجال الرعاية الصحية لضمان أن خدماتنا ليست مجرد مخصصة بل تحولية أيضًا. مع التركيز على الاحترام والتعاطف والتعلم المستمر، نكرس أنفسنا لخلق بيئة تعزز فيها الأفراد.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "تعرف على المزيد"
+      },
+      {
+        "title": "الهدف",
+        "desc": "مقرها في 16 Carver Circuit, Wollert, Victoria، تهدف جالاكسي كير إلى تحقيق فارق كبير في جميع أنحاء ملبورن، وخاصة في الضواحي الشمالية. ترتكز وجودنا على فهم أن كل فرد يستحق دعمًا فريدًا مثله. انضم إلينا في هذه الرحلة نحو تمكين الأفراد حيث نفتح الطريق للاستقلالية والنمو ومستقبل أكثر إشراقًا. جالاكسي كير، حيث تتجاوز الرعاية الحدود وتنبثق الإمكانيات.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "تعرف على المزيد"
+      }
+    ],
+    "services": [
+      {
+        "title": "مساعدة في الأنشطة الشخصية",
+        "description": "تقديم المساعدة في الأنشطة الشخصية لتعزيز المهارات الفردية والاستقلالية.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities",
+        "des_des": "قم بتعزيز مهاراتك وتبني استقلاليتك مع خدمة مساعدة في الأنشطة الشخصية من Galaxy Care. فريقنا الرحيم مكرس لتقديم المساعدة المخصصة في مجموعة متنوعة من الأنشطة اليومية، مما يمكّنك من تحقيق أهدافك. من العناية بالمظهر واللباس إلى تحضير الوجبات ودعم التنقل، نحن هنا لندعمك في كل خطوة. اختبر الرعاية التي تعتبر احتياجاتك الفريدة أولوية، مما يساعدك على التفوق والتميز في رحلتك الشخصية نحو الاستقلالية الأكبر."
+      },
+      {
+        "title": "مساعدة في السفر/النقل",
+        "description": "تقديم الدعم في احتياجات السفر والنقل لضمان الوصول والتنقل.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel",
+        "des_des": "في Galaxy Care، نحن ندرك أهمية الوصول والتنقل. خدمة مساعدة في السفر/النقل مصممة لجعل رحلاتك سلسة وممتعة. سواء كنت ذاهبًا للمواعيد، أو للفعاليات المجتمعية، أو حتى للاستكشاف ببساطة، فإن فريقنا يقدم دعمًا موثوقًا لضمان سفرك بسهولة. من مساعدة في تخطيط الطريق إلى تقديم الرفقة أثناء رحلاتك، نحن ملتزمون بتحسين تجربتك في السفر وتمكينك من البقاء متصلاً بالعالم من حولك."
+      },
+      {
+        "title": "الرعاية التمريضية في المجتمع",
+        "description": "تقديم الرعاية التمريضية في المجتمع لتلبية الاحتياجات الصحية المحددة.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care",
+        "des_des": "استمتع برعاية تمريضية مخصصة في راحة مجتمعك من خلال خدمة الرعاية التمريضية في المجتمع من Galaxy Care. ممرضاتنا المهرة والرحيمة هنا لتلبية احتياجاتك الصحية المحددة. من العناية بالجروح وإدارة الأدوية إلى المراقبة والتثقيف الصحي، نحن نعطي الأولوية لرفاهيتك ونقدم خدمات تمريضية مخصصة لتعزيز صحتك واستقلاليتك. من خلال التركيز على الرعاية الرحيمة والاختصاص، نحن شركاءك الموثوقين في رحلتك نحو الصحة."
+      },
+      {
+        "title": "مساعدة في المهام اليومية في مجموعة أو ترتيب سكن مشترك",
+        "description": "دعم المشاركين في ترتيبات السكن المشترك في المهام اليومية والأنشطة.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task",
+        "des_des": "يفهم Galaxy Care أهمية بيئة العيش المدعومة. خدمتنا لمساعدة في المهام اليومية في مجموعة أو ترتيب سكن مشترك تضمن أن المشاركين في مساحات العيش المشتركة يتلقون دعمًا شاملاً. من تخطيط وجبات الطعام وتنظيم المنزل إلى الأنشطة الجماعية المشوقة، نحن نعزز الشعور بالمجتمع بينما نساعد في المهام اليومية. يقوم فريقنا المخصص بإنشاء بيئة تعزز فيها الاستقلالية وروح الأخوة، مما يعزز من نمط حياة مليء بالإشباع والاتصال."
+      },
+      {
+        "title": "مهارات الحياة اليومية",
+        "description": "مساعدة الأفراد في تطوير وتحسين مهارات الحياة اليومية لزيادة الاعتماد على الذات.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills",
+        "des_des": "قم بتمكين نفسك باكتساب مهارات الحياة الأساسية من خلال خدمة مهارات الحياة اليومية من Galaxy Care. فريقنا ملتزم بمساعدتك في تطوير وتحسين قدراتك في المهام اليومية. من إدارة الأمور المالية ومهارات الاتصال إلى روتين العناية الذاتية وحل المشكلات، نقدم تدريبًا شاملاً لتعزيز الاعتماد على الذات. من خلال التركيز على بناء المهارات والدعم المخصص، نحن هنا لتزويدك بالأدوات التي تحتاجها لحياة واثقة ومستقلة."
+      },
+      {
+        "title": "مهام المنزل",
+        "description": "مساعدة في مهام وأعمال المنزل للحفاظ على بيئة معيشية آمنة ومريحة.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task",
+        "des_des": "احتفظ ببيئة معيشية مريحة وآمنة مع خدمة مهام المنزل من Galaxy Care. فريق الدعم المخصص لدينا هنا لمساعدتك في مجموعة متنوعة من مهام المنزل، مما يضمن أن محيطك يكون محافظًا عليه ومنظمًا. من التنظيف والغسيل إلى التسوق للبقالة وصيانة المنزل، نحن ملتزمون بإيجاد مكان تشعر فيه بالراحة. اختبر راحة وسهولة منزل منظم ومريح، مما يتيح لك التركيز على ما يهم حقًا."
+      },
+      {
+        "title": "المشاركة في المجتمع",
+        "description": "تشجيع المشاركين على المشاركة بنشاط في مجتمعهم المحلي، وبناء العلاقات، والمساهمة في حياة المجتمع.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community",
+        "des_des": "تدعو Galaxy Care للمشاركة النشطة في مجتمعك المحلي من خلال خدمتنا المشاركة في المجتمع. نحن نؤمن بقوة الروابط والعلاقات، ونحن هنا لدعمك في بناء تفاعلات معنوية. من الانضمام إلى فعاليات المجتمع والأندية إلى تطوير مهارات الاجتماع وتعزيز الروابط، فريقنا مكرس لمساعدتك في أن تصبح جزءًا مهمًا من مجتمعك. اختبر فرح المساهمة في حياة المجتمع وإقامة علاقات دائمة مع من حولك."
+      }
+    ],
+    "setting": {
+      "titleone": "اختر لغتك.",
+      "titletwo": "تشغيل الوضع الليلي."
+    },
+    "servicesheading": {
+      "title": "خدماتنا",
+      "desc": "رعاية شاملة وشخصية مصممة حسب احتياجاتك"
+    },
+    "contact": {
+      "formtitle": "اترك لنا رسالة",
+      "contacttitle": "اتصل بنا لأي استفسار",
+      "contactdesc": "اتصل بنا اليوم وسنقوم بالتواصل قريبًا جدًا. لا تتردد في طرح استفسارك، سنساعدك في استفسارك.",
+      "address": "العنوان",
+      "phone": "رقم الاتصال",
+      "email": "عنوان البريد الإلكتروني",
+      "placeholderemail": "بريدك الإلكتروني",
+      "placeholderName": "اسمك",
+      "placeholderNumber": "رقمك",
+      "placeholderQuery": "استفسارك",
+      "cta": "اتصل بنا"
+    },
+    "gallery": {
+      "title": "معرض صور جالاكسي كير",
+      "desc": "تسجيل لحظات الرعاية والتواصل في جالاكسي كير. استكشاف بصري لرحلتنا في تمكين الحياة من خلال الدعم الرحيم.",
+      "cta": "عرض المعرض",
+      "np_title":"معرض",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "روابط سريعة",
+      "our_services": "خدماتنا",
+      "contact": "اتصل بنا",
+      "moto": "انضم إلينا في رحلة النمو، والمشاركة المجتمعية، والروابط ذات المعنى.",
+      "cr": "جميع الحقوق محفوظة."
+    },
+    "enquire": {
+      "enquiry": "استفسر الآن",
+      "formtitle": "اترك لنا استفسارًا.",
+      "contacttitle": "استفسر منا بخصوص أي استفسار",
+      "contactdesc": "استفسر منا اليوم وسنتواصل معك قريبًا جدًا. لا تتردد في طرح أي استفسار لديك، سنساعدك في استفسارك.",
+      "placeholderEmail": "بريدك @galaxycare.com.au",
+      "placeholderName": "اسمك هنا",
+      "placeholderNumber": "رقم الاتصال الخاص بك هنا",
+      "placeholderAddress": "عنوانك هنا",
+      "placeholderDesc": "المشارك بحاجة إلى مساعدة في المشي...",
+      "placeholderRisk": "المشارك لديه مشكلة في القلب...",
+      "placeholderSupportHour": "من 7 صباحًا إلى 9 مساءً",
+      "labelName": "الاسم",
+      "labelEmail": "البريد الإلكتروني",
+      "labelAddress": "العنوان",
+      "labelNumber": "رقم الاتصال",
+      "labeldob": "تاريخ ميلاد المشارك",
+      "labelSupportHour": "ساعات الدعم",
+      "labelRisk": "هل هناك أي مخاطر؟",
+      "labelDesc": "وصف الدعم",
+      "cta": "إرسال"
+    },
+    "referral": {
+      "partone": "تفاصيل المشارك",
+      "parttwo": "إدارة الصندوق",
+      "partthree": "حول المشاركين",
+      "partfour": "تفاصيل معلومات المُحال",
+      "labelGender": "الجنس",
+      "labelMale": "ذكر",
+      "labelFemale": "أنثى",
+      "labelOthers": "آخرون",
+      "labelliving_situatuion": "وضع المشارك في السكن",
+      "placeholderliving_situatuion": "حدد وضع المشارك في السكن هنا.",
+      "labelcurrent_behavioural_plan": "هل لدى المشارك خطة دعم سلوكي حالية؟",
+      "plan_funding": "تمويل الخطة",
+      "self_man": "تدبير ذاتي",
+      "plan_managed": "تدبير الخطة",
+      "invo_part": "تفاصيل الفواتير",
+      "mobility": "التنقل",
+      "mobility_mode": "وسيلة التنقل",
+      "need_assistance": "بحاجة للمساعدة",
+      "independence": "استقلالية",
+      "plz_mention_other_mobility": "يرجى ذكر خيارات التنقل الأخرى",
+      "comm": "التواصل",
+      "comm_mode": "وسيلة التواصل",
+      "verbally": "شفوياً",
+      "auslan": "لغة الإشارة الأسترالية (Auslan)",
+      "nv": "غير شفهي",
+      "pg": "إشارة أو إيماءة",
+      "ipad": "آيباد",
+      "comm_opt": "يرجى ذكر خيارات التواصل الأخرى",
+      "pd": "يرجى الوصف",
+      "cforassi": "الرجاء التحقق من الحاجة للمساعدة",
+      "assi_mode": "وسيلة المساعدة",
+      "pc": "العناية الشخصية",
+      "trans": "النقل",
+      "ed": "تناول الطعام والشرب",
+      "conti": "السيطرة على البول",
+      "cladbg": "خلفية ثقافية ولغوية متنوعة (CALD)",
+      "pmoao": "يرجى ذكر خيارات المساعدة الأخرى",
+      "wp": "تفضيلات العامل",
+      "mengenskill": "يرجى ذكر الجنس أو المهارات أو القدرات المطلوبة للعامل",
+      "enqd": "تاريخ الاستفسار"
+    }   
+  }
+  ,
+  "el": {
+    "navbar": {
+      "about_us": "σχετικά με εμάς",
+      "our_services": "οι υπηρεσίες μας",
+      "referral": "παραπομπή",
+      "gallary": "συλλογή",
+      "contact": "επικοινωνία",
+      "enquire_now": "ερευνήστε τώρα"
+    },
+    "landing": {
+      "title": "Εξουσιοδότηση Ζωών Μέσω Συμπονετικής Φροντίδας.",
+      "description": "Ελάτε μαζί μας σε ένα ταξίδι ανάπτυξης, συμμετοχής της κοινότητας και σημαντικών συνδέσεων. Ανακαλύψτε πώς το Galaxy Care μπορεί να μετασχηματίσει τις ζωές και να δημιουργήσει ένα φωτεινότερο μέλλον, βήμα-βήμα. Βιώστε τη φροντίδα που υπερβαίνει τα όρια, επειδή όλοι αξίζουν να λάμπουν.",
+      "cta": "Ελάτε μαζί μας σήμερα"
+    },
+    "setting": {
+      "titleone": "Επιλέξτε τη γλώσσα σας.",
+      "titletwo": "Ενεργοποίηση της σκοτεινής λειτουργίας."
+    },
+    "servicesheading": {
+      "title": "Οι Υπηρεσίες Μας",
+      "desc": "Πλήρης και Εξατομικευμένη Φροντίδα Καταρτισμένη στις Ανάγκες Σας"
+    },
+    "contact": {
+      "formtitle": "Αφήστε μας ένα μήνυμα",
+      "contacttitle": "Επικοινωνήστε μαζί μας για οποιαδήποτε ερώτηση",
+      "contactdesc": "Επικοινωνήστε μαζί μας σήμερα και θα επικοινωνήσουμε πολύ σύντομα. Μη διστάσετε να μας ερωτήσετε, θα σας βοηθήσουμε με την ερώτησή σας.",
+      "address": "Διεύθυνση",
+      "phone": "Τηλέφωνο Επικοινωνίας",
+      "email": "Διεύθυνση Ηλεκτρονικού Ταχυδρομείου",
+      "placeholderemail": "Το Ηλεκτρονικό Σας Ταχυδρομείο",
+      "placeholderName": "Το Όνομά Σας",
+      "placeholderNumber": "Ο Αριθμός Σας",
+      "placeholderQuery": "Η Ερώτησή Σας",
+      "cta": "Επικοινωνήστε μαζί μας"
+    },
+    "services": [
+      {
+        "title": "Υποστήριξη Προσωπικών Δραστηριοτήτων",
+        "description": "Παροχή υποστήριξης σε προσωπικές δραστηριότητες για τη βελτίωση των ατομικών δεξιοτήτων και της ανεξαρτησίας.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "Υποστήριξη Ταξιδιού/Μεταφοράς",
+        "description": "Παροχή υποστήριξης για τις ανάγκες ταξιδιού και μεταφοράς για να διασφαλιστεί η προσβασιμότητα και η κινητικότητα.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "Φροντίδα Κοινότητας Νοσηλείας",
+        "description": "Παροχή νοσηλευτικής φροντίδας στην κοινότητα για να καλύψει συγκεκριμένες ανάγκες υγείας.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "Υποστήριξη Καθημερινών Δραστηριοτήτων σε Ομαδικό ή Κοινό Σύστημα Διαβίωσης",
+        "description": "Υποστήριξη των συμμετεχόντων σε κοινό σύστημα διαβίωσης με καθημερινές εργασίες και δραστηριότητες.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "Δεξιότητες Καθημερινής Ζωής",
+        "description": "Βοήθεια στα άτομα να αναπτύξουν και να βελτιώσουν τις δεξιότητες της καθημερινής ζωής για αυξημένη αυτονομία.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "Εργασίες Οικιακών Καθηκόντων",
+        "description": "Βοήθεια με τις εργασίες και τις ανάγκες στον οικιακό χώρο για τη διατήρηση ενός ασφαλούς και άνετου περιβάλλοντος.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "Συμμετοχή στην Κοινότητα",
+        "description": "Ενθάρρυνση των συμμετεχόντων να συμμετάσχουν ενεργά στις τοπικές τους κοινότητες, να δημιουργήσουν σχέσεις και να συνεισφέρουν στη ζωή της κοινότητας.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "mvoheader": {
+      "title": "Εξουσιοδοτώντας τις Ζωές μέσω Συμπαθητικής Υποστήριξης και Δημιουργίας Κοινότητας",
+      "desc": "Καθοδηγούμενοι από Έμπειρους Ηγέτες Υγείας, δεσμευόμαστε να Κατασκευάζουμε Ζωντανές Συνδέσεις και να Παρέχουμε Προσαρμοσμένη, Αξιοπρεπή Φροντίδα."
+    },
+    "mvo": [
+      {
+        "title": "Αποστολή",
+        "icon":"https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "desc": "Η αποστολή του Galaxy Care περιστρέφεται γύρω από την προώθηση σημαντικών συνδέσεων και τη δημιουργία ζωντανών κοινοτήτων. Δεν είμαστε απλώς πάροχοι υπηρεσιών, είμαστε οι σύντροφοί σας στην πρόοδο. Οι υπηρεσίες μας καλύπτουν ένα φάσμα φροντίδας, από προσωπικές δραστηριότητες έως συμμετοχή στην κοινότητα, νοσηλεία στην κοινότητα, δεξιότητες καθημερινής ζωής και πολλά άλλα. Η δέσμευσή μας στην αριστεία φαίνεται σε κάθε πτυχή της δουλειάς μας, καθώς προσπαθούμε να εξουσιοδοτήσουμε τους Συμμετέχοντες να οδηγήσουν μια ικανοποιητική και αξιοπρεπή ζωή.",
+        "cta":"Μάθετε περισσότερα"
+      },
+      {
+        "title": "Όραμα",
+        "icon":"https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "desc": "Το ταξίδι μας ξεκίνησε με το όραμα να γίνουμε ηγετική δύναμη στις καινοτόμες και συμπαθητικές υπηρεσίες υποστήριξης για άτομα με αναπηρίες. Με τα έμπειρα χέρια των Devraj Lamichhane και Rupa Pandey Lamichhane, η ομάδα μας συνδυάζει το εκτεταμένο υπόβαθρό της στην υγεία για να εξασφαλίσει ότι οι υπηρεσίες μας δεν είναι απλώς προσαρμοσμένες αλλά μετασχηματιστικές. Με έμφαση στον σεβασμό, την ενσυναίσθηση και τη συνεχή μάθηση, είμαστε αφοσιωμένοι στη δημιουργία ενός περιβάλλοντος όπου τα άτομα ανθίζουν.",
+        "cta":"Μάθετε περισσότερα"
+      },
+      {
+        "title": "Στόχος",
+        "icon":"https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "desc": "Με έδρα το 16 Carver Circuit, Wollert, Victoria, το Galaxy Care είναι έτοιμο να κάνει μια σημαντική διαφορά σε ολόκληρο το Μέλμπουρν, ιδιαίτερα στις βόρειες προαστιακές περιοχές. Η παρουσία μας βασίζεται στην κατανόηση ότι κάθε άτομο αξίζει υποστήριξη που είναι τόσο μοναδική όσο και αυτό. Ελάτε μαζί μας σε αυτό το ταξίδι εξουσιοδότησης, όπου ανοίγουμε το δρόμο για την ανεξαρτησία, την ανάπτυξη και ένα φωτεινότερο μέλλον. Galaxy Care, όπου η φροντίδα ξεπερνά τα όρια και οι δυνατότητες απλώνονται.",
+        "cta":"Μάθετε περισσότερα"
+      }
+    ],
+    "about": {
+      "heading": "Ανυψώνοντας τις Ζωές μέσω Εξατομικευμένης Υποστήριξης σε Αναπηρίες",
+      "desc": "Καλωσορίσατε στο Galaxy Care, μια αξιοσημείωτη πάροχος υπηρεσιών αναπηρίας που δεσμεύεται να έχει θετική επίδραση στη ζωή ατόμων με διαφορετικές ικανότητες. Η ακλόνητη αφοσίωσή μας πηγάζει από μια βαθιά πεποίθηση στην προώθηση της ευημερίας, της συμπερίληψης και της ανεξαρτησίας. Ως ένα αξιόπιστο όνομα στον τομέα, κινούμαστε με μια προσέγγιση που επικεντρώνεται στο άτομο και αναγνωρίζει τη μοναδικότητα κάθε ατόμου που εξυπηρετούμε.",
+      "cta": "Περί Εμάς",
+        "why": "Γιατί το Galaxy Care;",
+        "whypoints": [
+          {
+            "point": "Προσέγγιση που θέτει το Άτομο στο Κέντρο",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "Έμπειρη και Συμπονετική Ομάδα",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "Συμμετοχή στην Κοινότητα",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "Ολιστική Προσέγγιση Φροντίδας",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "Δέσμευση για Αριστεία",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "Θετική Επίδραση στους Συμμετέχοντες",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]      
+    },
+    "gallery": {
+      "title": "Συλλογή της Galaxy Care",
+      "desc": "Απαθανατίζοντας Στιγμές Φροντίδας και Σύνδεσης στη Galaxy Care. Μια Οπτική Εξερεύνηση του Ταξιδιού μας στην Ενδυνάμωση της Ζωής μέσω της Ευσπλαχνής Υποστήριξης.",
+      "cta": "Προβολή της Συλλογής μας",
+      "np_title":"Gallery",
+      "np_sub":"Συλλογή",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ] 
+    },
+    "footer": {
+      "quick_link": "Γρήγοροι Σύνδεσμοι",
+      "our_services": "Οι Υπηρεσίες Μας",
+      "contact": "Επικοινωνήστε Μαζί Μας",
+      "moto": "Ενωθείτε μαζί μας σε ένα ταξίδι ανάπτυξης, συμμετοχής στην κοινότητα και σημαντικών συνδέσεων.",
+      "cr": "Όλα τα δικαιώματα κατοχυρωμένα."
+    },
+    "enquire": {
+      "enquiry": "Εξετάστε Τώρα",
+      "formtitle": "Αφήστε μας μια ερώτηση.",
+      "contacttitle": "Εξετάστε Εμάς Για Οποιαδήποτε Ερώτηση",
+      "contactdesc": "Εξετάστε μας σήμερα και θα επικοινωνήσουμε πολύ σύντομα. Μη διστάσετε να ρωτήσετε, θα σας βοηθήσουμε με την ερώτησή σας.",
+      "placeholderEmail": "youremail@galaxycare.com.au",
+      "placeholderName": "το όνομά σας εδώ",
+      "placeholderNumber": "το αριθμό επικοινωνίας σας εδώ",
+      "placeholderAddress": "η διεύθυνσή σας εδώ",
+      "placeholderDesc": "Ο συμμετέχων χρειάζεται βοήθεια με το περπάτημα...",
+      "placeholderRisk": "Ο συμμετέχων έχει πρόβλημα με την καρδιά...",
+      "placeholderSupportHour": "7 πμ έως 9 μμ",
+      "labelName": "Όνομα",
+      "labelEmail": "Ελληνικά",
+      "labelAddress": "Διεύθυνση",
+      "labelNumber": "Αριθμός Επικοινωνίας",
+      "labeldob": "Ημερομηνία Γέννησης Συμμετέχοντα",
+      "labelSupportHour": "Ώρα Υποστήριξης",
+      "labelRisk": "Κάποιος Κίνδυνος;",
+      "labelDesc": "Περιγραφή Υποστήριξης",
+      "cta": "Υποβολή"
+    },
+    "referral": {
+      "partone": "Στοιχεία Συμμετέχοντος",
+      "parttwo": "Διαχείριση Ταμείου",
+      "partthree": "Σχετικά με τους Συμμετέχοντες",
+      "partfour": "Στοιχεία Επικοινωνίας του Παραπέμποντος",
+      "labelGender": "Φύλο",
+      "labelMale": "Άνδρας",
+      "labelFemale": "Γυναίκα",
+      "labelOthers": "Άλλοι",
+      "labelliving_situatuion": "Κατάσταση Διαβίωσης του Συμμετέχοντος",
+      "placeholderliving_situatuion": "Αναφέρετε την κατάσταση διαβίωσης του συμμετέχοντος εδώ.",
+      "labelcurrent_behavioural_plan": "Διαθέτει ο συμμετέχων τρέχουσα σχέδιο συμπεριφορικής υποστήριξης;",
+      "plan_funding": "Χρηματοδότηση Σχεδίου",
+      "self_man": "Αυτοδιαχείριση",
+      "plan_managed": "Διαχείριση Σχεδίου",
+      "invo_part": "Στοιχεία Τιμολόγησης",
+      "mobility": "Κινητικότητα",
+      "mobility_mode": "Τρόπος Κινητικότητας",
+      "need_assistance": "Χρειάζεται Βοήθεια",
+      "independence": "Ανεξαρτησία",
+      "plz_mention_other_mobility": "Παρακαλώ αναφέρετε άλλες επιλογές κινητικότητας",
+      "comm": "Επικοινωνία",
+      "comm_mode": "Τρόπος Επικοινωνίας",
+      "verbally": "Λεκτικά",
+      "auslan": "Αυσλάν (Αυστραλιανή νοηματική γλώσσα)",
+      "nv": "Μη λεκτική",
+      "pg": "Δείκτης ή χειρονομία",
+      "ipad": "Ιπάντ",
+      "comm_opt": "Παρακαλώ αναφέρετε άλλες επιλογές επικοινωνίας",
+      "pd": "Παρακαλώ περιγράψτε",
+      "cforassi": "Παρακαλώ ελέγξτε για βοήθεια",
+      "assi_mode": "Τρόπος Βοήθειας",
+      "pc": "Προσωπική Φροντίδα",
+      "trans": "Μετακίνηση",
+      "ed": "Τροφοδοσία και Πόσιμο",
+      "conti": "Ελέγχου της κοντινότητας",
+      "cladbg": "Πολιτιστικό και Γλωσσικό Υπόβαθρο (CALD)",
+      "pmoao": "Παρακαλώ αναφέρετε άλλες επιλογές βοήθειας",
+      "wp": "Προτίμηση Εργαζομένου",
+      "mengenskill": "Παρακαλώ αναφέρετε φύλο ή δεξιότητες ή ικανότητες για την προτίμηση του εργαζομένου",
+      "enqd": "Ημερομηνία Ερώτησης"
+    }
+  },
+  "tr": {
+    "navbar": {
+      "about_us": "hakkımızda",
+      "our_services": "hizmetlerimiz",
+      "referral": "yönlendirme",
+      "gallary": "galeri",
+      "contact": "iletişim",
+      "enquire_now": "şimdi sor"
+    },
+    "landing": {
+      "title": "Şefkatli Bakım ile Hayatları Güçlendirmek.",
+      "description": "Büyüme, topluluk katılımı ve anlamlı bağlantıların bir yolculuğuna katılın. Galaxy Care'nin nasıl yaşamları dönüştürebileceğini ve daha parlak bir gelecek yaratabileceğini adım adım keşfedin. Herkesin parlamayı hak ettiği için sınırları aşan bakımı deneyimleyin.",
+      "cta": "Bugün katılın"
+    },
+    "setting": {
+      "titleone": "Dilinizi seçin.",
+      "titletwo": "Karanlık modu açın."
+    },
+    "about": {
+      "heading": "Kişiselleştirilmiş Engelli Destekleri Aracılığıyla Hayatları Yükseltme",
+      "desc": "Galaxy Care'e hoş geldiniz, çeşitli yeteneklere sahip bireylerin yaşamlarına olumlu bir etki yaratma taahhüdünde olan seçkin bir engelli hizmet sağlayıcısı. Kararlılığımız, refahı, dahil edilme ve bağımsızlığı teşvik etme inancından kaynaklanır. Alanında güvenilen bir isim olarak, her bir hizmet sunduğumuz bireyin benzersizliğini değerli kılan kişi merkezli bir yaklaşım tarafından yönlendirilir.",
+      "cta": "Hakkımızda Daha Fazla Bilgi",
+        "why": "Neden Galaxy Care?",
+        "whypoints": [
+          {
+            "point": "Kişiye Özel Yaklaşım",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "Deneyimli ve Şefkatli Ekip",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "Topluluk Katılımı",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "Tüm Yönleriyle Bakım Yaklaşımı",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "Mükemmelliğe Bağlılık",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "Katılımcılarda Olumlu Etki",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+      
+    },
+    "mvoheader": {
+      "title": "Merhametli Destek ve Topluluk Oluşturma Yoluyla Hayatları Güçlendirme",
+      "desc": "Deneyimli Sağlık Liderleri Tarafından Rehberlik Edilen, Canlı Bağlantılar Kurma ve Kişiselleştirilmiş, Saygı Değer Bakım Sağlama Taahhüdü."
+    },
+    "mvo": [
+      {
+        "title": "Misyon",
+        "desc": "Galaxy Care'nin misyonu, anlamlı bağlantılar kurmayı ve canlı topluluklar oluşturmayı içerir. Sadece bir hizmet sağlayıcısı değil, ilerlemenizdeki ortaklarınızdır. Hizmetlerimiz, kişisel aktivitelerden topluluk katılımına, topluluk hemşireliğine, günlük yaşam becerilerine ve daha fazlasına kadar bir bakım yelpazesi kapsar. Mükemmelliğe olan taahhüdümüz her işimizin her yönünde parlar, çünkü katılımcıları dolu dolu ve saygın bir yaşama yol açmaya çalışırız.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "Daha Fazlasını Öğrenin"
+      },
+      {
+        "title": "Vizyon",
+        "desc": "Yolculuğumuz, özürlü insanlar için yenilikçi ve merhametli destek hizmetlerinde lider bir güç haline gelme vizyonuyla başladı. Deneyimli ellerde Devraj Lamichhane ve Rupa Pandey Lamichhane liderliğindeki ekibimiz, sağlık alanındaki geniş deneyimlerini hizmetlerimizin sadece özelleştirilmiş değil aynı zamanda dönüştürücü olmasını sağlamak için birleştiriyor. Saygı, empati ve sürekli öğrenme vurgusu ile bireylerin geliştiği bir ortam yaratmaya adanmışız.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "Daha Fazlasını Öğrenin"
+      },
+      {
+        "title": "Amaç",
+        "desc": "16 Carver Circuit, Wollert, Victoria'da merkezi bulunan Galaxy Care, Melbourne'un genelinde, özellikle kuzey banliyölerinde büyük bir fark yaratmayı amaçlamaktadır. Varlığımız, her bir bireyin kendisi gibi benzersiz bir desteğe layık olduğu anlayışına dayanmaktadır. Bağımsızlık, büyüme ve daha parlak bir gelecek için yolu açtığımız bu güçlenme yolculuğuna siz de katılın. Galaxy Care, bakımın sınırları aştığı ve olanakların açıldığı yer.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "Daha Fazlasını Öğrenin"
+      }
+    ],
+    "services": [
+      {
+        "title": "Kişisel Faaliyetlerde Yardım",
+        "description": "Bireylerin becerilerini ve bağımsızlığını artırmak için kişisel faaliyetlerde yardım sağlama.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "Seyahat/Nakliye Destek",
+        "description": "Erişilebilirliği ve hareketliliği sağlamak için seyahat ve nakliye ihtiyaçlarına destek sağlama.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "Topluluk Hemşireliği",
+        "description": "Belirli sağlık ihtiyaçlarına hizmet etmek için topluluk içinde hemşirelik bakımı sunma.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "Toplu veya Paylaşımlı Yaşam Düzeninde Günlük Yaşam Görevleri ile Yardım",
+        "description": "Paylaşımlı yaşam düzenlerindeki katılımcılara günlük görevler ve etkinlikler konusunda destek sağlama.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "Günlük Yaşam Becerileri",
+        "description": "Bireylerin artan öz-yeterlilik için günlük yaşam becerilerini geliştirmelerine yardımcı olma.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "Ev İşleri",
+        "description": "Güvenli ve konforlu bir yaşam ortamını sürdürmek için ev işlerine ve görevlerine yardımcı olma.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "Topluluğa Katılım",
+        "description": "Katılımcıları yerel topluluklarına aktif olarak katılmaya, ilişkiler kurmaya ve topluluk yaşamına katkıda bulunmaya teşvik etme.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "Hizmetlerimiz",
+      "desc": "İhtiyaçlarınıza Uyarlanmış Kapsamlı ve Kişiselleştirilmiş Bakım"
+    },
+    "contact": {
+      "formtitle": "Bize Bir Mesaj Bırakın",
+      "contacttitle": "Herhangi Bir Soru İçin Bizimle İletişime Geçin",
+      "contactdesc": "Bugün bizimle iletişime geçin ve çok yakında sizinle iletişime geçeceğiz. Sormaktan çekinmeyin, size sorunuz konusunda yardımcı olacağız.",
+      "address": "Adres",
+      "phone": "İletişim Numarası",
+      "email": "E-posta Adresi",
+      "placeholderemail": "E-posta Adresiniz",
+      "placeholderName": "Adınız",
+      "placeholderNumber": "Numaranız",
+      "placeholderQuery": "Sorunuz",
+      "cta": "Bizimle İletişime Geçin"
+    },
+    "gallery": {
+      "title": "Galaxy Care Galerisi",
+      "desc": "Galaxy Care'den Bakım ve Bağlantı Anlarını Yakalama. Şefkatli Destek Yoluyla Yaşamları Güçlendirme Yolculuğumuzun Görsel Keşfi.",
+      "cta": "Galerimizi Görüntüle",
+      "np_title":"Galeri",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "Hızlı Bağlantılar",
+      "our_services": "Hizmetlerimiz",
+      "contact": "Bizimle İletişime Geçin",
+      "moto": "Bir büyüme, topluluk katılımı ve anlamlı bağlantılar yolculuğuna katılın.",
+      "cr": "Tüm hakları saklıdır."
+    },
+    "enquire": {
+      "enquiry": "Şimdi Sorgula",
+      "formtitle": "Bize bir soru bırakın.",
+      "contacttitle": "Herhangi bir soru için bize soruşturma yapın",
+      "contactdesc": "Bizi bugün sorgulayın ve çok yakında iletişime geçeceğiz. Lütfen sormaktan çekinmeyin, sorunuzla size yardımcı olacağız.",
+      "placeholderEmail": "youremail@galaxycare.com.au",
+      "placeholderName": "adinizi buraya girin",
+      "placeholderNumber": "iletisim numaranizi buraya girin",
+      "placeholderAddress": "adresinizi buraya girin",
+      "placeholderDesc": "Katılımcının yürüme yardımına ihtiyacı var...",
+      "placeholderRisk": "Katılımcının kalp sorunu var...",
+      "placeholderSupportHour": "7 sabah ile 9 akşam arası",
+      "labelName": "Ad",
+      "labelEmail": "e-posta",
+      "labelAddress": "Adres",
+      "labelNumber": "İletişim Numarası",
+      "labeldob": "Katılımcının Doğum Tarihi",
+      "labelSupportHour": "Destek Saati",
+      "labelRisk": "Herhangi Bir Risk?",
+      "labelDesc": "Destek Açıklaması",
+      "cta": "Gönder"
+    },
+    "referral": {
+      "partone": "Katılımcı Bilgileri",
+      "parttwo": "Fon Yönetimi",
+      "partthree": "Katılımcılar Hakkında",
+      "partfour": "Yönlendiren Kişinin İletişim Bilgileri",
+      "labelGender": "Cinsiyet",
+      "labelMale": "Erkek",
+      "labelFemale": "Kadın",
+      "labelOthers": "Diğerleri",
+      "labelliving_situatuion": "Katılımcının Yaşam Durumu",
+      "placeholderliving_situatuion": "Katılımcının yaşam durumunu buraya belirtiniz.",
+      "labelcurrent_behavioural_plan": "Katılımcının mevcut davranışsal destek planı var mı?",
+      "plan_funding": "Plan Fonlama",
+      "self_man": "Kendi Kendine Yönetilen",
+      "plan_managed": "Plan Yönetilen",
+      "invo_part": "Fatura Bilgileri",
+      "mobility": "Hareket Kabiliyeti",
+      "mobility_mode": "Hareket Kabiliyeti Modu",
+      "need_assistance": "Yardıma İhtiyaç Var",
+      "independence": "Bağımsızlık",
+      "plz_mention_other_mobility": "Lütfen diğer hareket kabiliyeti seçeneklerini belirtiniz",
+      "comm": "İletişim",
+      "comm_mode": "İletişim Modu",
+      "verbally": "Sözel",
+      "auslan": "Auslan (Avustralya İşaret Dili)",
+      "nv": "Sözel Olmayan",
+      "pg": "İşaret veya Jest",
+      "ipad": "iPad",
+      "comm_opt": "Lütfen diğer iletişim seçeneklerini belirtiniz",
+      "pd": "Lütfen Açıklayınız",
+      "cforassi": "Yardım için kontrol ediniz",
+      "assi_mode": "Yardım Modu",
+      "pc": "Kişisel Bakım",
+      "trans": "Transfer",
+      "ed": "Yeme ve İçme",
+      "conti": "İdrar Kontrolü",
+      "cladbg": "Çeşitli Kültürel ve Dil Arka Planı (ÇKDP)",
+      "pmoao": "Lütfen diğer yardım seçeneklerini belirtiniz",
+      "wp": "Çalışan Tercihi",
+      "mengenskill": "Çalışan tercihi için cinsiyet veya beceri veya yetenekleri belirtiniz",
+      "enqd": "Soruşturma Tarihi"
+    }
+  },
+  "mk": {
+    "navbar": {
+      "about_us": "за нас",
+      "our_services": "нашите услуги",
+      "referral": "препратка",
+      "gallary": "галерија",
+      "contact": "контакт",
+      "enquire_now": "барај сега"
+    },
+    "landing": {
+      "title": "Овозможување на животите преку сочувствена нега.",
+      "description": "Придружете ни се на едно патување на растеж, ангажирање на заедницата и значајни врски. Откријте како Galaxy Care може да ги трансформира животите и да создаде подобра и светла иднина, чекор по чекор. Искусете грижа која надминува границите, бидејќи секој заслужува да заблеска.",
+      "cta": "Придружете ни се денес"
+    },
+    "setting": {
+      "titleone": "Изберете јазик.",
+      "titletwo": "Вклучете режим на темна боја."
+    },
+    "about": {
+      "heading": "Подигање на животот преку персонализирана поддршка за инвалидитет",
+      "desc": "Добредојдовте во Galaxy Care, издвоен провајдер на услуги за инвалидитет кој се обврзува да има позитивен влијание врз животот на лица со различни способности. Нашата неуморна посветеност потекнува од длабоко верување во стимулирање на добробитта, инклузијата и независноста. Како доверено име во областа, нашата стремежливост произлегува од пристап кој го поставува личниот центар како вредност на уникатноста на секој индивидуум кој ние го обезбедуваме.",
+      "cta": "За Нас",
+        "why": "Зошто Галакси Кеа?",
+        "whypoints": [
+          {
+            "point": "Проактивен Пристап Со Фокус На Личноста",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "Искусен и Сострадателен Тим",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "Заедничко Вклучување",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "Целостен Пристап До Нега",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "Спремност За Извонредност",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "Позитивен Влијание Врз Учесниците",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+          
+    },
+    "mvoheader": {
+      "title": "Подигање на животот преку сочувствена поддршка и градење заедница",
+      "desc": "Водени од искусни лидери во здравствената нега, се обврзуваме да градиме живи врски и да обезбедуваме персонализирана, достоинствена нега."
+    },
+    "mvo": [
+      {
+        "title": "Мисија",
+        "desc": "Мисијата на Galaxy Care се врти околу поттикнување на значајни врски и градење на живи заедници. Не сме само провајдер на услуги, ние сме ваши партнери во напредокот. Нашите услуги ги обемнуваат сите аспекти на негата, од лични активности до заедничко вклучување, заедничка медицинска нега, дневни животни вештини и повеќе. Нашата посветеност кон одличност се одразува во секој аспект на нашата работа, бидејќи стремиме да ги овозможиме учесниците да водат задоволни и достојни животи.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "Дознајте Повеќе"
+      },
+      {
+        "title": "Визија",
+        "desc": "Нашиот пат започна со визија да станеме водечка сила во иновативните и сочувствени услуги за поддршка за луѓето со инвалидитети. Водени од искусните раце на Деврај Ламичане и Рупа Панди Ламичане, нашиот тим ги комбинира нивната обширна подготовка во здравствената нега за да обезбеди дека нашите услуги не се само прилагодени, туку и трансформативни. Со акцент на почит, емпатија и постојано учење, сме посветени на создавање на околина каде што луѓето напредуваат.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "Дознајте Повеќе"
+      },
+      {
+        "title": "Цел",
+        "desc": "Со централа на 16 Carver Circuit, Wollert, Victoria, Galaxy Care е подготвено да направи значаен разлика низ Мелбурн, особено во северните предградија. Нашата присуство е засновано на разбирањето дека секој индивидуум заслужува поддршка која е толку уникатна колку што се нивните потреби. Придружете ни се на овој пат на освојување на независност, раст и посветен буднина. Galaxy Care, каде што негата надминува граници и открива можностите.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "Дознајте Повеќе"
+      }
+    ],
+    "services": [
+      {
+        "title": "Помош - Лични Активности",
+        "description": "Обезбедување на помош со лични активности за зголемување на индивидуалните вештини и независност.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "Помош - Патување/Транспорт",
+        "description": "Поддршка со потребите за патување и транспорт за обезбедување на пристапност и мобилност.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "Здравствена Нега во Заедницата",
+        "description": "Обезбедување на здравствена нега во заедницата за задоволување на конкретните здравствени потреби.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "Помош со Дневни Животни Активности во Група или Заеднички Животен Аранжман",
+        "description": "Поддршка на учесници во заеднички животни аранжмани со дневни задачи и активности.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "Дневни Животни Вештини",
+        "description": "Помагање на индивидуалите да развиваат и подобруваат дневни животни вештини за поголема самостојност.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "Домашни Задачи",
+        "description": "Помагање со домашни работи и задачи за одржување на безбедна и удобна средина за живеење.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "Учествувај во Заедницата",
+        "description": "Подтикнување на учесниците да активно се вклучат во нивните локални заедници, изградат врски и допринесат за заедничкиот живот.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "Наши Услуги",
+      "desc": "Комплексна и Персонализирана Нега Прилагодена на Вашите Потреби"
+    },
+    "contact": {
+      "formtitle": "Оставете Ни Порака",
+      "contacttitle": "Контактирајте не За Било Какво Прашање",
+      "contactdesc": "Контактирајте не денес и ние ќе се обратиме на вас многу скоро. Слободно поставете прашање, ние ќе ви помогнеме со вашето прашање.",
+      "address": "Адреса",
+      "phone": "Контакт Број",
+      "email": "Е-пошта Адреса",
+      "placeholderemail": "Вашата Е-пошта",
+      "placeholderName": "Вашето Име",
+      "placeholderNumber": "Вашиот Број",
+      "placeholderQuery": "Вашето Прашање",
+      "cta": "Контактирајте Не"
+    },
+    "gallery": {
+      "title": "Галерија на Галакси Кеа",
+      "desc": "Заснемање на Моменти на Грижа и Поврзаност на Галакси Кеа. Визуелно Истражување на Нашиот Пат во Одгледување на Животите преку Сочувствено Поддршка.",
+      "cta": "Погледнете Ја Нашата Галерија",
+      "np_title":"Галерија",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "Брзи Линкови",
+      "our_services": "Наши Услуги",
+      "contact": "Контактирајте Нè",
+      "moto": "Придружете се на патување на растеж, ангажман во заедницата и значајни поврзувања.",
+      "cr": "Сите права се задржани."
+    },
+    "enquire": {
+      "enquiry": "Побарај информации",
+      "formtitle": "Оставете ни порака.",
+      "contacttitle": "Побарајте информации за било какво прашање",
+      "contactdesc": "Побарајте информации од нас денес и ние ќе се јавиме многу скоро. Слободно поставете прашање, ние ќе ви помогнеме со вашиот прашање.",
+      "placeholderEmail": "youremail@galaxycare.com.au",
+      "placeholderName": "вашето име тука",
+      "placeholderNumber": "вашата контакт бројка тука",
+      "placeholderAddress": "вашата адреса тука",
+      "placeholderDesc": "Учесникот има потреба од помош при шетање...",
+      "placeholderRisk": "Учесникот има срчан проблем...",
+      "placeholderSupportHour": "Од 7 часот сутринава до 9 часот навечер",
+      "labelName": "Име",
+      "labelEmail": "Е-пошта",
+      "labelAddress": "Адреса",
+      "labelNumber": "Контакт Број",
+      "labeldob": "Роденден на учесникот",
+      "labelSupportHour": "Час на Поддршка",
+      "labelRisk": "Било Каков Ризик?",
+      "labelDesc": "Опис на Поддршка",
+      "cta": "Испрати"
+    },
+    "referral": {
+      "partone": "Детали за Учесникот",
+      "parttwo": "Управување на Фондот",
+      "partthree": "За Учесниците",
+      "partfour": "Контакт Детали на Препорачувачот",
+      "labelGender": "Пол",
+      "labelMale": "Машки",
+      "labelFemale": "Женски",
+      "labelOthers": "Друго",
+      "labelliving_situatuion": "Ситуација на Живеење на Учесникот",
+      "placeholderliving_situatuion": "Наведете ја ситуацијата на живеење на учесникот тука.",
+      "labelcurrent_behavioural_plan": "Дали учесникот има моментален план за поддршка на однесувањето?",
+      "plan_funding": "Финансирање на Планот",
+      "self_man": "Самоуправување",
+      "plan_managed": "Управување на Планот",
+      "invo_part": "Детали за Фактурирање",
+      "mobility": "Мобилност",
+      "mobility_mode": "Режим на Мобилност",
+      "need_assistance": "Потребна е Помош",
+      "independence": "Независност",
+      "plz_mention_other_mobility": "Ве молиме наведете други опции за мобилност",
+      "comm": "Комуникација",
+      "comm_mode": "Режим на Комуникација",
+      "verbally": "Усно",
+      "auslan": "Ауслен (Австралиски Знаковен Јазик)",
+      "nv": "Непроизнесено",
+      "pg": "Знак или жест",
+      "ipad": "Ајпед",
+      "comm_opt": "Ве молиме наведете други опции за комуникација",
+      "pd": "Ве молиме опишете",
+      "cforassi": "Ве молиме проверете за помош",
+      "assi_mode": "Режим на Помош",
+      "pc": "Лична Нега",
+      "trans": "Трансфер",
+      "ed": "Јадење и Пиење",
+      "conti": "Континенција",
+      "cladbg": "Различно Културно и Јазично Општество (РКЈО)",
+      "pmoao": "Ве молиме наведете други опции за помош",
+      "wp": "Приоритет на Работникот",
+      "mengenskill": "Ве молиме наведете го полот или вештините или способностите за приоритетот на работникот",
+      "enqd": "Датум на Истрагата"
+    }    
+  },
+  "fa": {
+    "navbar": {
+      "about_us": "درباره ما",
+      "our_services": "خدمات ما",
+      "referral": "ارجاع",
+      "gallary": "گالری",
+      "contact": "تماس",
+      "enquire_now": "اکنون پرس و جو کنید"
+    },
+    "landing": {
+      "title": "توانمندسازی زندگی‌ها از طریق مراقبت مهربانانه.",
+      "description": "به ما در سفری از رشد، مشارکت جامعه و ارتباطات معنادار همراهی کنید. کشف کنید چگونه Galaxy Care می‌تواند زندگی‌ها را تغییر دهد و آینده‌ای روشن‌تر را خلق کند، یک قدم به مراتب. تجربه مراقبتی را تجربه کنید که فراتر از حدود می‌رود، چرا که همه لایق درخشیدن هستند.",
+      "cta": "امروز به ما بپیوندید"
+    },
+    "setting": {
+      "titleone": "زبان خود را انتخاب کنید.",
+      "titletwo": "حالت تاریک را روشن کنید."
+    },
+    "about": {
+      "heading": "با پشتیبانی شخصی‌سازی شده، زندگی‌ها را تقویت کنید",
+      "desc": "به Galaxy Care خوش آمدید، یک ارائه‌دهنده خدمات اختصاصی به افراد با توانمندی‌های متنوع که متعهد به ایجاد تأثیر مثبت در زندگی افراد است. تعهد ناپذیری ما از اعتقاد عمیق به ترویج رفاه، اشتراک‌گذاری جامعه و استقلال نشأت می‌گیرد. به عنوان یک نام اعتماد در این زمینه، ما تحت تأثیر یک رویکرد متمرکز بر فرد قرار داریم که ارزش منحصر به فردی هر فردی که خدمت می‌کنیم را ارزیابی می‌کند.",
+      "cta": "درباره ما",
+        "why": "چرا گلکسی کر؟",
+        "whypoints": [
+          {
+            "point": "رویکرد متمرکز بر فرد",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "تیم تجربه‌کار و مهربان",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "مشارکت در جامعه",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "رویکرد معالجه جامع",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "تعهد به عالی‌بودن",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "تأثیر مثبت بر شرکت‌کنندگان",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+            
+    },
+    "mvoheader": {
+      "title": "تقویت زندگی‌ها از طریق حمایت مهربان و ایجاد ارتباطات جامعه‌سازانه",
+      "desc": "تحت رهنمودهای رهبران تجربه‌کرده در زمینه مراقبت‌های بهداشتی، ما متعهد به ایجاد ارتباطات زنده و ارائه مراقبت‌های شخصی‌سازی شده و منزلت‌دار هستیم."
+    },
+    "mvo": [
+      {
+        "title": "مأموریت",
+        "desc": "مأموریت Galaxy Care در ارتباط با ایجاد ارتباطات معنادار و ساخت اجتماع‌های پویا است. ما تنها یک ارائه‌دهنده خدمات نیستیم، ما همراهان پیشرفت شما هستیم. خدمات ما طیفی از مراقبت‌ها را از فعالیت‌های شخصی تا مشارکت در جامعه، پرستاری جامعه، مهارت‌های زندگی روزمره و غیره شامل می‌شود. تعهد ما به عالیت در هر جانب کار ما شعاع انداخته است، زیرا به دنبال تقویت قدرت اشتغال فردی‌ها برای رهایی از زندگی‌های ارج و ارزشمند هستیم.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "بیشتر بیاموزید"
+      },
+      {
+        "title": "چشم‌انداز",
+        "desc": "سفر ما با یک چشم‌انداز برای تبدیل شدن به یک نیروی پیشوندی در خدمات پشتیبانی نوآورانه و مهربان برای افراد دارای معلولیت‌ها آغاز شد. تیم ما توسط دستان تجربه‌کرده دواجی‌تور دواج لامیچانه و روپا پندی لامیچانه هدایت می‌شود، ویژگی‌های فراوان خود را در حوزه بهداشت را ترکیب کرده‌اند تا مطمئن شوند که خدمات ما نه تنها منطبق، بلکه تغییردهنده هستند. با تأکید بر احترام، همدردی و یادگیری مداوم، متعهد به ایجاد محیطی برای رشد افراد هستیم.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "بیشتر بیاموزید"
+      },
+      {
+        "title": "هدف",
+        "desc": "مقرر شده در 16 دور دیواری، وولرت، ویکتوریا، Galaxy Care توانسته در سراسر ملبورن، به ویژه در حومه شمالی، تفاوت قابل توجهی ایجاد کند. حضور ما در درک این واقعیت است که هر فردی پشتیبانی مناسب را می‌طلبد که به همان اندازه منحصر به فردی است که هستند. به ما در این سفر توانمندی پیوسته بپیوندید، جایی که راه را برای استقلال، رشد و یک آینده روشن می‌گذاریم. Galaxy Care، جایی که مراقبت فراتر از مرزهاست و امکانات پدیدار می‌شوند.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "بیشتر بیاموزید"
+      }
+    ],
+    "services": [
+      {
+        "title": "کمک - فعالیت‌های شخصی",
+        "description": "ارائه کمک به فعالیت‌های شخصی برای بهبود مهارت‌ها و استقلال فردی.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "کمک - مسافرت/حمل و نقل",
+        "description": "ارائه پشتیبانی با نیازهای مسافرت و حمل و نقل برای اطمینان از دسترسی و تردد.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "مراقبت‌های پرستاری در جامعه",
+        "description": "ارائه مراقبت‌های پرستاری در جامعه برای پاسخ به نیازهای خاص مرتبط با سلامت.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "کمک با وظایف زندگی روزمره در یک گروه یا تنظیم زندگی مشترک",
+        "description": "پشتیبانی از شرکت‌کنندگان در تنظیم‌های زندگی مشترک با وظایف روزمره و فعالیت‌ها.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "مهارت‌های زندگی روزمره",
+        "description": "کمک به افراد برای توسعه و بهبود مهارت‌های زندگی روزمره به منظور افزایش خوداستقلالی.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "وظایف خانگی",
+        "description": "کمک با کارها و وظایف خانگی برای حفظ محیط زیستی ایمن و راحت.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "مشارکت در جامعه",
+        "description": "تشویق شرکت‌کنندگان به فعالیت فعال در جوامع محلی خود، ایجاد روابط و به‌میزانی که به زندگی جامعه می‌توانند کمک کنند.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "خدمات ما",
+      "desc": "مراقبت جامع و شخصی‌سازی‌شده منطبق بر نیازهای شما"
+    },
+    "contact": {
+      "formtitle": "یک پیام برای ما بگذارید",
+      "contacttitle": "برای هر سوال با ما تماس بگیرید",
+      "contactdesc": "امروز با ما تماس بگیرید تا بسیار زود با شما تماس بگیریم. لطفاً با خیال راحت سوال کنید، ما با سوال شما کمک خواهیم کرد.",
+      "address": "آدرس",
+      "phone": "شماره تماس",
+      "email": "آدرس ایمیل",
+      "placeholderemail": "ایمیل شما",
+      "placeholderName": "نام شما",
+      "placeholderNumber": "شماره شما",
+      "placeholderQuery": "سوال شما",
+      "cta": "با ما تماس بگیرید"
+    },
+    "gallery": {
+      "title": "گالری گلکسی کر",
+      "desc": "ثبت لحظات مراقبت و ارتباط در گالکسی کر. یک بررسی تجسمی از سفر ما در تقویت زندگی‌ها از طریق حمایت مهربانانه.",
+      "cta": "مشاهده گالری ما",
+      "np_title":"گالری",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "لینک‌های سریع",
+      "our_services": "خدمات ما",
+      "contact": "تماس با ما",
+      "moto": "به ما در سفری از رشد، مشارکت در جامعه و ارتباطات معنادار بپیوندید.",
+      "cr": "تمامی حقوق محفوظ است."
+    },
+    "enquire": {
+      "enquiry": "درخواست اطلاعات",
+      "formtitle": "پیامی برای ما بفرستید.",
+      "contacttitle": "برای هر پرسشی با ما در تماس باشید",
+      "contactdesc": "امروز با ما تماس بگیرید و ما به زودی با شما تماس خواهیم گرفت. لطفاً بدون هیچ محدودیتی سوال خود را مطرح کنید، ما به شما در پاسخگویی به سوالتان کمک خواهیم کرد.",
+      "placeholderEmail": "youremail@galaxycare.com.au",
+      "placeholderName": "نام شما اینجا",
+      "placeholderNumber": "شماره تماس شما اینجا",
+      "placeholderAddress": "آدرس شما اینجا",
+      "placeholderDesc": "نیاز شرکت‌کننده به کمک در پیاده‌روی...",
+      "placeholderRisk": "شرکت‌کننده مشکل قلبی دارد...",
+      "placeholderSupportHour": "از ساعت 7 صبح تا 9 شب",
+      "labelName": "نام",
+      "labelEmail": "ایمیل",
+      "labelAddress": "آدرس",
+      "labelNumber": "شماره تماس",
+      "labeldob": "تاریخ تولد شرکت‌کننده",
+      "labelSupportHour": "ساعت پشتیبانی",
+      "labelRisk": "هرگونه ریسک؟",
+      "labelDesc": "توضیحات پشتیبانی",
+      "cta": "ارسال"
+    },
+    "referral": {
+      "partone": "جزئیات شرکت‌کننده",
+      "parttwo": "مدیریت صندوق",
+      "partthree": "درباره شرکت‌کنندگان",
+      "partfour": "جزئیات تماس معرف",
+      "labelGender": "جنسیت",
+      "labelMale": "مرد",
+      "labelFemale": "زن",
+      "labelOthers": "دیگر",
+      "labelliving_situatuion": "وضعیت زندگی شرکت‌کننده",
+      "placeholderliving_situatuion": "وضعیت زندگی شرکت‌کننده را اینجا ذکر کنید.",
+      "labelcurrent_behavioural_plan": "آیا شرکت‌کننده برنامه پشتیبانی رفتاری فعلی دارد؟",
+      "plan_funding": "تأمین مالی برنامه",
+      "self_man": "خودمدیریت",
+      "plan_managed": "مدیریت برنامه",
+      "invo_part": "جزئیات صورتحساب",
+      "mobility": "پیمایش",
+      "mobility_mode": "حالت پیمایش",
+      "need_assistance": "نیاز به کمک دارد",
+      "independence": "استقلالیت",
+      "plz_mention_other_mobility": "لطفاً سایر گزینه‌های پیمایش را ذکر کنید",
+      "comm": "ارتباط",
+      "comm_mode": "حالت ارتباط",
+      "verbally": "شفاهی",
+      "auslan": "زبان اشاره استرالیایی (Auslan)",
+      "nv": "غیرشفاهی",
+      "pg": "نشانه یا حرکت",
+      "ipad": "آیپد",
+      "comm_opt": "لطفاً سایر گزینه‌های ارتباطی را ذکر کنید",
+      "pd": "لطفاً توضیح دهید",
+      "cforassi": "لطفاً برای کمک بررسی کنید",
+      "assi_mode": "حالت کمک",
+      "pc": "مراقبت شخصی",
+      "trans": "انتقال",
+      "ed": "خوردن و نوشیدن",
+      "conti": "تنظیم ادرار",
+      "cladbg": "زمینه فرهنگی و زبانی متنوع (CALD)",
+      "pmoao": "لطفاً سایر گزینه‌های کمک را ذکر کنید",
+      "wp": "ترجیح کارگر",
+      "mengenskill": "لطفاً جنسیت یا مهارت‌ها یا توانایی‌ها را برای ترجیح کارگر ذکر کنید",
+      "enqd": "تاریخ استعلام"
+    }
+   
+  },
+  "it": {
+    "navbar": {
+      "about_us": "chi siamo",
+      "our_services": "i nostri servizi",
+      "referral": "rinvio",
+      "gallary": "galleria",
+      "contact": "contatto",
+      "enquire_now": "richiedi ora"
+    },
+    "landing": {
+      "title": "Valorizzare le Vite Attraverso la Cura Compassionevole.",
+      "description": "Unisciti a noi in un viaggio di crescita, coinvolgimento nella comunità e connessioni significative. Scopri come Galaxy Care può trasformare vite e creare un futuro più luminoso, un passo alla volta. Sperimenta una cura che va oltre, perché tutti meritano di brillare.",
+      "cta": "Unisciti a noi oggi"
+    },
+    "setting": {
+      "titleone": "Seleziona la tua lingua.",
+      "titletwo": "Attiva la modalità scura."
+    },
+    "about": {
+      "heading": "Elevaré le Vite Attraverso un Supporto Personalizzato alle Disabilità",
+      "desc": "Benvenuti in Galaxy Care, un rinomato fornitore di servizi per disabili impegnato a avere un impatto positivo sulla vita delle persone con diverse abilità. La nostra dedizione incondizionata nasce da una profonda convinzione nella promozione del benessere, dell'inclusione e dell'indipendenza. Come nome di fiducia nel settore, siamo guidati da un approccio centrato sulla persona che valorizza l'unicità di ogni individuo che serviamo.",
+      "cta": "Chi siamo",
+        "why": "Perché Galaxy Care?",
+        "whypoints": [
+          {
+            "point": "Approccio Centrato sulla Persona",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "Team Esperto e Compassionevole",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "Coinvolgimento nella Comunità",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "Approccio Globale alla Cura",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "Impegno per l'Eccellenza",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "Impatto Positivo sui Partecipanti",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+          
+    },
+    "mvoheader": {
+      "title": "Potenziare le Vite Attraverso il Supporto Compassionevole e la Costruzione della Comunità",
+      "desc": "Guidati da Leader Esperti nel Settore della Salute, siamo Impegnati nella Creazione di Connessioni Vive e nella Fornitura di Assistenza Personalizzata e Dignitosa."
+    },
+    "mvo": [
+      {
+        "title": "Missione",
+        "desc": "La missione di Galaxy Care ruota attorno alla promozione di connessioni significative e alla costruzione di comunità vibranti. Non siamo solo un fornitore di servizi, siamo tuoi partner nel progresso. I nostri servizi abbracciano uno spettro di cure, dalle attività personali all'interazione con la comunità, assistenza infermieristica comunitaria, abilità per la vita quotidiana e altro. Il nostro impegno per l'eccellenza emerge in ogni aspetto del nostro lavoro, poiché ci sforziamo di responsabilizzare i partecipanti a condurre una vita appagante e dignitosa.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "Scopri di più"
+      },
+      {
+        "title": "Visione",
+        "desc": "Il nostro viaggio è iniziato con la visione di diventare una forza trainante nei servizi di supporto innovativi e compassionevoli per le persone con disabilità. Guidati dalle mani esperte di Devraj Lamichhane e Rupa Pandey Lamichhane, il nostro team combina la loro vasta esperienza nel settore sanitario per garantire che i nostri servizi non siano solo su misura ma trasformativi. Con un'enfasi sul rispetto, l'empatia e l'apprendimento continuo, ci dedichiamo a creare un ambiente in cui gli individui prosperano.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "Scopri di più"
+      },
+      {
+        "title": "Obiettivo",
+        "desc": "Con sede in 16 Carver Circuit, Wollert, Victoria, Galaxy Care è pronta a fare una differenza significativa in tutta Melbourne, in particolare nei sobborghi settentrionali. La nostra presenza è radicata nella comprensione che ogni individuo merita un supporto unico come loro. Unisciti a noi in questo percorso di responsabilizzazione, dove spianiamo la strada per l'indipendenza, la crescita e un futuro più luminoso. Galaxy Care, dove la cura supera i confini e le possibilità si svelano.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "Scopri di più"
+      }
+    ],
+    "services": [
+      {
+        "title": "Assistenza Attività Personali",
+        "description": "Fornire assistenza alle attività personali per migliorare le competenze e l'indipendenza individuali.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "Assistenza Viaggio/Trasporto",
+        "description": "Offrire supporto alle esigenze di viaggio e trasporto per garantire l'accessibilità e la mobilità.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "Cura Infermieristica Comunitaria",
+        "description": "Fornire cure infermieristiche nella comunità per soddisfare specifiche esigenze legate alla salute.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "Assistenza con Compiti quotidiani in un Gruppo o una Casa Condivisa",
+        "description": "Supporto ai partecipanti in abitazioni condivise con compiti e attività quotidiane.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "Abilità per la Vita Quotidiana",
+        "description": "Aiutare gli individui a sviluppare e migliorare le abilità per la vita quotidiana per aumentare l'autosufficienza.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "Compiti Domestici",
+        "description": "Assistenza con le faccende domestiche e i compiti per mantenere un ambiente di vita sicuro e confortevole.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "Partecipa alla Comunità",
+        "description": "Incoraggiare i partecipanti a partecipare attivamente alle comunità locali, costruire relazioni e contribuire alla vita comunitaria.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "I Nostri Servizi",
+      "desc": "Assistenza Completa e Personalizzata Sui Tuoi Bisogni"
+    },
+    "contact": {
+      "formtitle": "Lasciaci un Messaggio",
+      "contacttitle": "Contattaci per Qualsiasi Domanda",
+      "contactdesc": "Contattaci oggi stesso e ci metteremo in contatto molto presto. Non esitare a farci domande, saremo lieti di aiutarti con le tue richieste.",
+      "address": "Indirizzo",
+      "phone": "Numero di Contatto",
+      "email": "Indirizzo Email",
+      "placeholderemail": "La Tua Email",
+      "placeholderName": "Il Tuo Nome",
+      "placeholderNumber": "Il Tuo Numero",
+      "placeholderQuery": "La Tua Domanda",
+      "cta": "Contattaci"
+    },
+    "gallery": {
+      "title": "Galleria di Galaxy Care",
+      "desc": "Catturando Momenti di Cura e Connessione presso Galaxy Care. Un'esplorazione visuale del nostro viaggio nell'empowerment delle vite attraverso un supporto compassionevole.",
+      "cta": "Vedi la nostra Galleria",
+      "np_title":"Galleria",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "Link veloci",
+      "our_services": "I nostri servizi",
+      "contact": "Contattaci",
+      "moto": "Unisciti a noi in un viaggio di crescita, coinvolgimento nella comunità e connessioni significative.",
+      "cr": "Tutti i diritti riservati."
+    },
+    "enquire": {
+      "enquiry": "Richiedi informazioni",
+      "formtitle": "Lasciaci un messaggio.",
+      "contacttitle": "Contattaci per qualsiasi domanda",
+      "contactdesc": "Contattaci oggi e ti risponderemo molto presto. Sentiti libero di farci domande, ti aiuteremo con le tue richieste.",
+      "placeholderEmail": "tuaemail@galaxycare.com.au",
+      "placeholderName": "il tuo nome qui",
+      "placeholderNumber": "il tuo numero di contatto qui",
+      "placeholderAddress": "il tuo indirizzo qui",
+      "placeholderDesc": "Il partecipante ha bisogno di assistenza per camminare...",
+      "placeholderRisk": "Il partecipante ha problemi cardiaci...",
+      "placeholderSupportHour": "dalle 7:00 alle 21:00",
+      "labelName": "Nome",
+      "labelEmail": "Email",
+      "labelAddress": "Indirizzo",
+      "labelNumber": "Numero di contatto",
+      "labeldob": "Data di nascita del partecipante",
+      "labelSupportHour": "Ora di assistenza",
+      "labelRisk": "Qualsiasi rischio?",
+      "labelDesc": "Descrizione dell'assistenza",
+      "cta": "Invia"
+    },
+    "referral": {
+      "partone": "Dettagli del Partecipante",
+      "parttwo": "Gestione del Fondo",
+      "partthree": "Informazioni sui Partecipanti",
+      "partfour": "Dettagli di Contatto del Riferente",
+      "labelGender": "Sesso",
+      "labelMale": "Maschio",
+      "labelFemale": "Femmina",
+      "labelOthers": "Altro",
+      "labelliving_situatuion": "Situazione Abitativa del Partecipante",
+      "placeholderliving_situatuion": "Indicare qui la situazione abitativa del partecipante.",
+      "labelcurrent_behavioural_plan": "Il partecipante ha un piano di supporto comportamentale attuale?",
+      "plan_funding": "Finanziamento del Piano",
+      "self_man": "Autogestito",
+      "plan_managed": "Gestito dal Piano",
+      "invo_part": "Dettagli di Fatturazione",
+      "mobility": "Mobilità",
+      "mobility_mode": "Modalità di Mobilità",
+      "need_assistance": "Serve Assistenza",
+      "independence": "Indipendenza",
+      "plz_mention_other_mobility": "Indicare altre opzioni di mobilità, per favore",
+      "comm": "Comunicazione",
+      "comm_mode": "Modalità di Comunicazione",
+      "verbally": "Verbalmente",
+      "auslan": "Auslan (Lingua dei Segni Australiana)",
+      "nv": "Non Verbale",
+      "pg": "Punto o Gesto",
+      "ipad": "iPad",
+      "comm_opt": "Indicare altre opzioni di comunicazione, per favore",
+      "pd": "Si prega di Descrivere",
+      "cforassi": "Si prega di verificare per assistenza",
+      "assi_mode": "Modalità di Assistenza",
+      "pc": "Cura Personale",
+      "trans": "Trasferimento",
+      "ed": "Mangiare e Bere",
+      "conti": "Continence",
+      "cladbg": "Background Culturale e Linguistico Diversificato (CALD)",
+      "pmoao": "Indicare altre opzioni di assistenza, per favore",
+      "wp": "Preferenza del Lavoratore",
+      "mengenskill": "Indicare Genere o competenze o abilità per la preferenza del lavoratore.",
+      "enqd": "Data dell'Indagine"
+    }    
+    
+    
+  },
+  "zh": {
+    "navbar": {
+      "about_us": "关于我们",
+      "our_services": "我们的服务",
+      "referral": "推荐",
+      "gallary": "画廊",
+      "contact": "联系",
+      "enquire_now": "现在查询"
+    },
+    "landing": {
+      "title": "通过富有同情心的关怀赋予生命力量。",
+      "description": "加入我们的成长之旅、社区参与和有意义的连接。发现 Galaxy Care 如何改变生活，创造更光明的未来，一步一步。体验超越界限的关怀，因为每个人都值得闪耀。",
+      "cta": "立即加入我们"
+    },
+    "setting": {
+      "titleone": "选择您的语言。",
+      "titletwo": "开启暗模式。"
+    },
+    "about": {
+      "heading": "通过个性化残障支持提升生活质量",
+      "desc": "欢迎来到 Galaxy Care，一家杰出的残障服务提供者，致力于对多才多艺的个体的生活产生积极影响。我们的坚定奉献来自于对促进幸福、包容和独立的深信。作为该领域的可信名字，我们受到以人为中心的方法的驱动，重视我们为每个个体提供服务的独特性。",
+      "cta": "关于我们",
+        "why": "为什么选择 Galaxy Care？",
+        "whypoints": [
+          {
+            "point": "以个人为中心的方法",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "经验丰富且充满同情心的团队",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "社区参与",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "全面的关怀方法",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "追求卓越",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "对参与者的积极影响",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+            
+    },
+    "mvoheader": {
+      "title": "通过富有同情心的支持和社区建设赋予生活力量",
+      "desc": "在经验丰富的医疗领导者的指导下，我们致力于建立充满活力的联系，提供个性化的、有尊严的护理。"
+    },
+    "mvo": [
+      {
+        "title": "使命",
+        "desc": "Galaxy Care 的使命是围绕着促进有意义的联系和建设充满活力的社区。我们不仅仅是服务提供者，更是您进步的伙伴。我们的服务涵盖了一系列的关怀，从个人活动到社区参与，社区护理，日常生活技能等等。我们的卓越承诺在我们工作的每个方面都闪耀着，因为我们努力赋予参与者引领充实和有尊严生活的能力。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "了解更多"
+      },
+      {
+        "title": "愿景",
+        "desc": "我们的旅程始于成为创新和富有同情心的支持服务领域中的领先力量的愿景。在 Devraj Lamichhane 和 Rupa Pandey Lamichhane 有经验的领导下，我们的团队将他们在医疗保健领域的丰富背景结合起来，确保我们的服务不仅仅是量身定制的，而且是变革性的。强调尊重、同理心和持续学习，我们致力于创造一个个体蓬勃发展的环境。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "了解更多"
+      },
+      {
+        "title": "目标",
+        "desc": "位于 Wollert, Victoria 的 16 Carver Circuit 总部，Galaxy Care 正在墨尔本各处，尤其是北部郊区，发挥重大作用。我们的存在根植于每个个体都值得得到与他们独特相匹配的支持的认识。加入我们，踏上这个赋权之旅，在这里我们为独立、成长和更光明的未来铺平道路。Galaxy Care，一个关怀超越界限的地方，可能性展现。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "了解更多"
+      }
+    ],
+    "services": [
+      {
+        "title": "协助个人活动",
+        "description": "提供协助个人活动，提高个体技能和独立性。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "协助旅行/运输",
+        "description": "提供旅行和运输需求的支持，以确保可访问性和流动性。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "社区护理",
+        "description": "在社区内提供护理服务，满足特定的与健康相关的需求。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "在群体或共享居住环境中协助日常生活任务",
+        "description": "为共享居住环境中的参与者提供日常任务和活动的支持。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "日常生活技能",
+        "description": "帮助个体发展和提高日常生活技能，增加自立能力。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "家务任务",
+        "description": "协助家务杂事和任务，以维持安全和舒适的生活环境。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "参与社区",
+        "description": "鼓励参与者积极参与当地社区，建立关系，为社区生活做出贡献。",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "我们的服务",
+      "desc": "全面个性化的关怀，量身定制以满足您的需求"
+    },
+    "contact": {
+      "formtitle": "给我们留言",
+      "contacttitle": "关于任何问题，请联系我们",
+      "contactdesc": "今天就与我们联系，我们将很快与您取得联系。请随意提问，我们将为您解答。",
+      "address": "地址",
+      "phone": "联系电话",
+      "email": "电子邮件地址",
+      "placeholderemail": "您的电子邮件",
+      "placeholderName": "您的姓名",
+      "placeholderNumber": "您的电话号码",
+      "placeholderQuery": "您的问题",
+      "cta": "联系我们"
+    },
+    "gallery": {
+      "title": "星河关爱画廊",
+      "desc": "在星河关爱捕捉关怀和连接的时刻。通过富有同情心的支持来探索我们赋予生命力量的旅程的视觉探索。",
+      "cta": "查看我们的画廊",
+      "np_title":"画廊 ",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "快速链接",
+      "our_services": "我们的服务",
+      "contact": "联系我们",
+      "moto": "加入我们的成长之旅，参与社区互动，建立有意义的联系。",
+      "cr": "保留所有权利。"
+    },
+    "enquire": {
+      "enquiry": "立即咨询",
+      "formtitle": "给我们留言。",
+      "contacttitle": "就任何问题向我们咨询",
+      "contactdesc": "今天咨询我们，我们将尽快与您联系。请随意提问，我们将帮助您解决问题。",
+      "placeholderEmail": "您的邮箱@galaxycare.com.au",
+      "placeholderName": "您的姓名在这里",
+      "placeholderNumber": "您的联系电话在这里",
+      "placeholderAddress": "您的地址在这里",
+      "placeholderDesc": "参与者需要行走援助...",
+      "placeholderRisk": "参与者有心脏问题...",
+      "placeholderSupportHour": "早上7点到晚上9点",
+      "labelName": "姓名",
+      "labelEmail": "邮箱",
+      "labelAddress": "地址",
+      "labelNumber": "联系电话",
+      "labeldob": "参与者出生日期",
+      "labelSupportHour": "支持时间",
+      "labelRisk": "是否有风险？",
+      "labelDesc": "支持描述",
+      "cta": "提交"
+    },
+    "referral": {
+      "partone": "参与者详情",
+      "parttwo": "基金管理",
+      "partthree": "关于参与者",
+      "partfour": "推荐人联系方式",
+      "labelGender": "性别",
+      "labelMale": "男性",
+      "labelFemale": "女性",
+      "labelOthers": "其他",
+      "labelliving_situatuion": "参与者居住状况",
+      "placeholderliving_situatuion": "在这里提及参与者的居住情况。",
+      "labelcurrent_behavioural_plan": "参与者是否有当前的行为支持计划？",
+      "plan_funding": "计划资金",
+      "self_man": "自主管理",
+      "plan_managed": "计划管理",
+      "invo_part": "发票明细",
+      "mobility": "流动性",
+      "mobility_mode": "流动性模式",
+      "need_assistance": "需要协助",
+      "independence": "独立性",
+      "plz_mention_other_mobility": "请提及其他流动性选项",
+      "comm": "沟通",
+      "comm_mode": "沟通模式",
+      "verbally": "口头",
+      "auslan": "澳大利亚手语（Auslan）",
+      "nv": "非口头",
+      "pg": "指点或手势",
+      "ipad": "iPad",
+      "comm_opt": "请提及其他沟通选项",
+      "pd": "请描述",
+      "cforassi": "请核对协助",
+      "assi_mode": "协助模式",
+      "pc": "个人护理",
+      "trans": "转移",
+      "ed": "进食和饮水",
+      "conti": "排便控制",
+      "cladbg": "多元文化和语言背景（CALD）",
+      "pmoao": "请提及其他协助选项",
+      "wp": "工作人员偏好",
+      "mengenskill": "请提及工作人员偏好的性别、技能或能力。",
+      "enqd": "查询日期"
+    }    
+    
+  },
+  "vi": {
+    "navbar": {
+      "about_us": "về chúng tôi",
+      "our_services": "dịch vụ của chúng tôi",
+      "referral": "giới thiệu",
+      "gallary": "thư viện ảnh",
+      "contact": "liên hệ",
+      "enquire_now": "hỏi ngay"
+    },
+    "landing": {
+      "title": "Tôn vinh Cuộc Sống Qua Sự Chăm Sóc Thương Yêu.",
+      "description": "Hãy cùng chúng tôi trên hành trình phát triển, tham gia cộng đồng và kết nối ý nghĩa. Khám phá cách Galaxy Care có thể biến đổi cuộc sống và tạo ra tương lai tươi sáng, từng bước một. Trải nghiệm sự chăm sóc vượt qua giới hạn, bởi vì ai cũng xứng đáng tỏa sáng.",
+      "cta": "Hãy tham gia cùng chúng tôi hôm nay"
+    },
+    "setting": {
+      "titleone": "Chọn ngôn ngữ của bạn.",
+      "titletwo": "Bật chế độ tối."
+    },
+    "about": {
+      "heading": "Nâng cao Cuộc Sống Qua Sự Hỗ Trợ Khuyết Tật Cá Nhân",
+      "desc": "Chào mừng bạn đến với Galaxy Care, một nhà cung cấp dịch vụ khuyết tật nổi tiếng cam kết tạo ra tác động tích cực đối với cuộc sống của những người có khả năng đa dạng. Sự tận tâm của chúng tôi bắt nguồn từ niềm tin sâu sắc trong việc thúc đẩy sự phát triển, tích hợp và độc lập. Là một cái tên đáng tin cậy trong lĩnh vực này, chúng tôi được thúc đẩy bởi một phương pháp tập trung vào người đóng vai trò chính trong việc đánh giá sự độc đáo của mỗi cá nhân mà chúng tôi phục vụ.",
+      "cta": "Về Chúng Tôi",
+        "why": "Tại sao chọn Galaxy Care?",
+        "whypoints": [
+          {
+            "point": "Phương pháp Đặt Người ở Trung Tâm",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11177/11177400.png"
+          },
+          {
+            "point": "Đội ngũ Kinh nghiệm và Đầy Tình thương",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11478/11478510.png"
+          },
+          {
+            "point": "Tham gia Cộng đồng",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11511/11511304.png"
+          },
+          {
+            "point": "Phương pháp Chăm sóc Toàn diện",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8344/8344249.png"
+          },
+          {
+            "point": "Cam kết với Sự Xuất sắc",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2618/2618145.png"
+          },
+          {
+            "point": "Tác động Tích cực đối với Người tham gia",
+            "icon": "https://cdn-icons-png.flaticon.com/128/4143/4143466.png"
+          }
+        ]
+            
+    },
+    "mvoheader": {
+      "title": "Nâng Cao Cuộc Sống Qua Sự Hỗ Trợ Từ Tâm và Xây Dựng Cộng Đồng",
+      "desc": "Hướng dẫn bởi các nhà lãnh đạo chăm sóc sức khỏe có kinh nghiệm, chúng tôi cam kết xây dựng các kết nối sống động và cung cấp chăm sóc cá nhân, lịch sự."
+    },
+    "mvo": [
+      {
+        "title": "Sứ mệnh",
+        "desc": "Sứ mệnh của Galaxy Care xoay quanh việc thúc đẩy các kết nối ý nghĩa và xây dựng cộng đồng sôi động. Chúng tôi không chỉ là nhà cung cấp dịch vụ, chúng tôi là đối tác của bạn trong quá trình tiến bộ. Dịch vụ của chúng tôi bao gồm một loạt các chăm sóc, từ hoạt động cá nhân đến tham gia cộng đồng, chăm sóc y tế cộng đồng, kỹ năng sống hàng ngày và nhiều hơn nữa. Sự cam kết của chúng tôi về sự xuất sắc hiển thị qua mọi khía cạnh của công việc của chúng tôi, khi chúng tôi cố gắng truyền cảm hứng cho người tham gia để dẫn dắt cuộc sống đầy đủ ý nghĩa và có phẩm giá.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1628/1628441.png",
+        "cta": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Tầm nhìn",
+        "desc": "Hành trình của chúng tôi bắt đầu với một tầm nhìn trở thành một lực lượng dẫn đầu trong các dịch vụ hỗ trợ đổi mới và đầy tình thương cho người khuyết tật. Dưới sự hướng dẫn của các nhà lãnh đạo có kinh nghiệm trong lĩnh vực chăm sóc sức khỏe, chúng tôi cam kết xây dựng các mối kết nối sôi động và cung cấp chăm sóc cá nhân, đáng kính.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/11071/11071381.png",
+        "cta": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Mục tiêu",
+        "desc": "Trụ sở tại 16 Carver Circuit, Wollert, Victoria, Galaxy Care định sẵn sẽ tạo ra sự khác biệt đáng kể trong toàn bộ Melbourne, đặc biệt là ở khu vực ngoại ô phía bắc. Sự hiện diện của chúng tôi có căn nguyên trong sự nhận thức rằng mỗi cá nhân đều xứng đáng được hỗ trợ độc đáo như họ. Hãy cùng chúng tôi trên hành trình này của sự tự chủ, sự phát triển và một tương lai sáng hơn. Galaxy Care, nơi sự chăm sóc vượt qua giới hạn và khả năng mở ra.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1535/1535012.png",
+        "cta": "Tìm hiểu thêm"
+      }
+    ],
+    "services": [
+      {
+        "title": "Hỗ trợ Hoạt động Cá nhân",
+        "description": "Hỗ trợ hoạt động cá nhân để nâng cao kỹ năng và sự độc lập của cá nhân.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/8291/8291209.png",
+        "link": "assist_personal_activities"
+      },
+      {
+        "title": "Hỗ trợ Du lịch/Đi lại",
+        "description": "Hỗ trợ với nhu cầu du lịch và vận chuyển để đảm bảo tính khả dụng và khả năng di chuyển.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1467/1467238.png",
+        "link": "assist_travel"
+      },
+      {
+        "title": "Chăm sóc Y tế Cộng đồng",
+        "description": "Cung cấp chăm sóc y tế trong cộng đồng để đáp ứng các nhu cầu liên quan đến sức khỏe cụ thể.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9842/9842375.png",
+        "link": "community_nursing_care"
+      },
+      {
+        "title": "Hỗ trợ Nhiệm vụ Hàng ngày trong Nhóm hoặc Sắp xếp Sống Chung",
+        "description": "Hỗ trợ người tham gia trong các sắp xếp sống chung với các nhiệm vụ và hoạt động hàng ngày.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/10206/10206083.png",
+        "link": "assistance_with_daily_life_task"
+      },
+      {
+        "title": "Kỹ năng Sống Hàng ngày",
+        "description": "Hỗ trợ cá nhân phát triển và cải thiện kỹ năng sống hàng ngày để tăng cường khả năng tự cải thiện.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/9583/9583761.png",
+        "link": "daily_living_skills"
+      },
+      {
+        "title": "Công việc Hàng ngày",
+        "description": "Hỗ trợ công việc và nhiệm vụ trong nhà để duy trì môi trường sống an toàn và thoải mái.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/2797/2797659.png",
+        "link": "household_task"
+      },
+      {
+        "title": "Tham gia Cộng đồng",
+        "description": "Khuyến khích người tham gia tích cực tham gia vào cộng đồng địa phương, xây dựng mối quan hệ và đóng góp vào cuộc sống cộng đồng.",
+        "icon": "https://cdn-icons-png.flaticon.com/128/476/476698.png",
+        "link": "participate_community"
+      }
+    ],
+    "servicesheading": {
+      "title": "Dịch Vụ Của Chúng Tôi",
+      "desc": "Chăm sóc Toàn diện và Cá nhân Hóa Được Thiết kế Theo Nhu Cầu Của Bạn"
+    },
+    "contact": {
+      "formtitle": "Để lại cho chúng tôi một tin nhắn",
+      "contacttitle": "Liên hệ chúng tôi để được tư vấn",
+      "contactdesc": "Hãy liên hệ với chúng tôi ngay hôm nay và chúng tôi sẽ liên hệ lại với bạn trong thời gian ngắn. Xin vui lòng thoải mái đặt câu hỏi, chúng tôi sẽ giúp bạn với câu hỏi của bạn.",
+      "address": "Địa chỉ",
+      "phone": "Số điện thoại liên hệ",
+      "email": "Địa chỉ Email",
+      "placeholderemail": "Email của bạn",
+      "placeholderName": "Tên của bạn",
+      "placeholderNumber": "Số điện thoại của bạn",
+      "placeholderQuery": "Câu hỏi của bạn",
+      "cta": "Liên hệ với chúng tôi"
+    },
+    "gallery": {
+      "title": "Bộ sưu tập Galaxy Care",
+      "desc": "Ghi lại những khoảnh khắc chăm sóc và kết nối tại Galaxy Care. Một hành trình thị giác khám phá về việc làm cho cuộc sống trở nên mạnh mẽ thông qua sự hỗ trợ đầy lòng thương xót.",
+      "cta": "Xem Bộ sưu tập của chúng tôi",
+      "np_title":"Bộ sưu tập",
+      "np_sub":"",
+      "images":[
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/happy-girl-with-down-syndrome-posing-while-drawing.jpg?updatedAt=1692618955542"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-disabled-friends-outside.jpg?updatedAt=1692618955523"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medium-shot-man-helping-disabled-friend.jpg?updatedAt=1692618955414"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/back-view-airport-male-employee-transporting-disabled-female-traveler-plane.jpg?updatedAt=1692618955082"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/woman-kitchen-looking-husband-with-walking-disability-trying-open-refrigerator-door-disabled-paralyzed-handicapped-man-with-walking-disability-integrating-after-accident.jpg?updatedAt=1692618955005"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/medical-staff-discussing-treatment-with-disabled-senior-woman-carrying-walking-frame-hospital-waiting-room-wearing-face-mask-against-coronavirus.jpg?updatedAt=1692618954838"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/portrait-asian-physiotherapist-carer-helping-playing-with-special-disabled-child-health-problem-by-doing-exercises-sitting-wheelchair-rehabilitation-clinic-disability-care-concept.jpg?updatedAt=1692618954584"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/senior-woman-with-her-caregiver-outdoor.jpg?updatedAt=1692595269752"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/granddaughter-talking-with-her-grandmother-sitting-wheelchair-cheerful-concept-happy-family.jpg?updatedAt=1692595269677"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/child-helping-his-disabled-mother.jpg?updatedAt=1692595269669"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/doctor-with-old-man-wheelchair-walking-sunny-park.jpg?updatedAt=1692595269578"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/full-shot-woman-with-crutches.jpg?updatedAt=1692595269419"},
+        {"img":"https://ik.imagekit.io/lt20pon3d/tr:w-300,h-300/img/img_care.jpg?updatedAt=1692514801317"}
+      ]
+    },
+    "footer": {
+      "quick_link": "Liên kết nhanh",
+      "our_services": "Dịch vụ của chúng tôi",
+      "contact": "Liên hệ chúng tôi",
+      "moto": "Hãy cùng chúng tôi trên hành trình phát triển, gắn kết cộng đồng và tạo những kết nối ý nghĩa.",
+      "cr": "Đã đăng ký bản quyền."
+    },
+    "enquire": {
+      "enquiry": "Liên hệ ngay",
+      "formtitle": "Để lại thông tin yêu cầu.",
+      "contacttitle": "Liên hệ chúng tôi để được tư vấn",
+      "contactdesc": "Hãy liên hệ với chúng tôi ngay hôm nay và chúng tôi sẽ phản hồi bạn trong thời gian ngắn. Xin vui lòng đặt câu hỏi, chúng tôi sẽ giúp bạn giải quyết mọi thắc mắc.",
+      "placeholderEmail": "email@của bạn@galaxycare.com.au",
+      "placeholderName": "tên của bạn ở đây",
+      "placeholderNumber": "số điện thoại của bạn ở đây",
+      "placeholderAddress": "địa chỉ của bạn ở đây",
+      "placeholderDesc": "Người tham gia cần hỗ trợ đi bộ...",
+      "placeholderRisk": "Người tham gia có vấn đề về tim...",
+      "placeholderSupportHour": "7 giờ sáng đến 9 giờ tối",
+      "labelName": "Họ và tên",
+      "labelEmail": "Email",
+      "labelAddress": "Địa chỉ",
+      "labelNumber": "Số điện thoại liên hệ",
+      "labeldob": "Ngày sinh của người tham gia",
+      "labelSupportHour": "Thời gian hỗ trợ",
+      "labelRisk": "Có rủi ro nào không?",
+      "labelDesc": "Mô tả hỗ trợ",
+      "cta": "Gửi đi"
+    },
+    "referral": {
+      "partone": "Thông Tin Người Tham Gia",
+      "parttwo": "Quản Lý Quỹ",
+      "partthree": "Về Người Tham Gia",
+      "partfour": "Thông Tin Liên Hệ Người Giới Thiệu",
+      "labelGender": "Giới Tính",
+      "labelMale": "Nam",
+      "labelFemale": "Nữ",
+      "labelOthers": "Khác",
+      "labelliving_situatuion": "Tình Hình Sống Của Người Tham Gia",
+      "placeholderliving_situatuion": "Chỉ ra tình hình sống của người tham gia ở đây.",
+      "labelcurrent_behavioural_plan": "Người tham gia có kế hoạch hỗ trợ hành vi hiện tại không?",
+      "plan_funding": "Quỹ Kế Hoạch",
+      "self_man": "Tự Quản Lý",
+      "plan_managed": "Quản Lý Kế Hoạch",
+      "invo_part": "Chi Tiết Hóa Đơn",
+      "mobility": "Khả Năng Di Động",
+      "mobility_mode": "Chế Độ Di Động",
+      "need_assistance": "Cần Hỗ Trợ",
+      "independence": "Độc Lập",
+      "plz_mention_other_mobility": "Vui lòng chỉ ra các tùy chọn di động khác",
+      "comm": "Giao Tiếp",
+      "comm_mode": "Chế Độ Giao Tiếp",
+      "verbally": "Bằng Lời Nói",
+      "auslan": "Auslan (Ngôn Ngữ Ký Hiệu Úc)",
+      "nv": "Không Bằng Lời",
+      "pg": "Chỉ Điểm hoặc Điệu chỉ",
+      "ipad": "iPad",
+      "comm_opt": "Vui lòng chỉ ra các tùy chọn giao tiếp khác",
+      "pd": "Vui lòng Mô Tả",
+      "cforassi": "Vui lòng kiểm tra cho việc hỗ trợ",
+      "assi_mode": "Chế Độ Hỗ Trợ",
+      "pc": "Chăm Sóc Cá Nhân",
+      "trans": "Chuyển Hướng",
+      "ed": "Ăn Uống",
+      "conti": "Kiểm Soát Tiểu Tiện",
+      "cladbg": "Hệ Thống Nền Văn Hóa và Ngôn Ngữ Đa Dạng (CALD)",
+      "pmoao": "Vui lòng chỉ ra các tùy chọn hỗ trợ khác",
+      "wp": "Ưu Tiên Của Người Lao Động",
+      "mengenskill": "Vui lòng chỉ ra giới tính hoặc kỹ năng hoặc khả năng cho ưu tiên của người lao động.",
+      "enqd": "Ngày Thăm Dò"
+    }
+  }
+}
